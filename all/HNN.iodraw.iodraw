@@ -11,10 +11,10 @@
           <mxGeometry width="753.03" height="250" as="geometry" />
         </mxCell>
         <mxCell id="5tGRMSXCNCo1RwTeW1gb-2" value="&lt;b&gt;Host CPU&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="350" width="140" height="30" as="geometry" />
+          <mxGeometry x="600" y="360" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5tGRMSXCNCo1RwTeW1gb-5" value="&lt;div style=&quot;padding-top: 0px; margin-top: 0px; font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;FPGA&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;fillOpacity=100;strokeOpacity=100;gradientColor=none;labelPadding=0;horizontal=1;verticalAlign=top;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="410" width="210" height="140" as="geometry" />
+          <mxGeometry x="600" y="410" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="5tGRMSXCNCo1RwTeW1gb-8" value="&lt;b&gt;Our Work&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="613.03" y="440" width="46.97" height="40" as="geometry" />
