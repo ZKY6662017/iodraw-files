@@ -37,8 +37,8 @@
         <mxCell id="5tGRMSXCNCo1RwTeW1gb-18" value="&lt;b&gt;HBM&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="613.03" y="500" width="186.97" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5tGRMSXCNCo1RwTeW1gb-19" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="340" width="60" height="100" as="geometry" />
+        <mxCell id="5tGRMSXCNCo1RwTeW1gb-19" value="&lt;b&gt;PCIe&lt;/b&gt;" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="950" y="420" width="60" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
