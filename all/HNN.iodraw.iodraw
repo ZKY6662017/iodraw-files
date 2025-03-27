@@ -13,7 +13,7 @@
         <mxCell id="5tGRMSXCNCo1RwTeW1gb-2" value="&lt;b&gt;Host CPU&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="350" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5tGRMSXCNCo1RwTeW1gb-5" value="&lt;div style=&quot;padding-top: 0px; margin-top: 0px;&quot;&gt;FPGA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5tGRMSXCNCo1RwTeW1gb-5" value="&lt;div style=&quot;padding-top: 0px; margin-top: 0px;&quot;&gt;FPGA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;fillOpacity=100;strokeOpacity=100;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="410" width="230" height="120" as="geometry" />
         </mxCell>
       </root>
