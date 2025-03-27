@@ -11,7 +11,7 @@
           <mxGeometry width="753.03" height="250" as="geometry" />
         </mxCell>
         <mxCell id="5tGRMSXCNCo1RwTeW1gb-2" value="&lt;b&gt;Host CPU&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="600" y="360" width="210" height="30" as="geometry" />
+          <mxGeometry x="600" y="360" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5tGRMSXCNCo1RwTeW1gb-5" value="&lt;div style=&quot;padding-top: 0px; margin-top: 0px; font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;FPGA&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;fillOpacity=100;strokeOpacity=100;gradientColor=none;labelPadding=0;horizontal=1;verticalAlign=top;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="600" y="410" width="160" height="130" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="613.03" y="500" width="126.97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5tGRMSXCNCo1RwTeW1gb-19" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;PCIe&lt;/span&gt;" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;flipV=0;strokeWidth=2;verticalAlign=middle;horizontal=0;fontStyle=1;fontSize=13;arrowWidth=0.460003662109375;arrowSize=0.20999959309895833;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="743.49" y="370" width="40" height="60" as="geometry" />
+          <mxGeometry x="700" y="370" width="40" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
