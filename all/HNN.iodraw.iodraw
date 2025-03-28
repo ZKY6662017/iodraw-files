@@ -570,19 +570,6 @@
         <mxCell id="xMZC_koo7cCIHgZrxQN9-144" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1130" y="868.5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xMZC_koo7cCIHgZrxQN9-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.336;exitY=0.731;exitDx=0;exitDy=0;entryDx=0;entryDy=0;strokeWidth=2;entryX=0.5;entryY=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1150" y="993" as="sourcePoint" />
-            <mxPoint x="1355" y="965" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1150" y="939" />
-              <mxPoint x="1355" y="939" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xMZC_koo7cCIHgZrxQN9-148" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1143" y="881.5" width="20" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
