@@ -497,13 +497,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="913" y="903" as="sourcePoint" />
             <mxPoint x="967" y="903" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="913" y="904" />
-              <mxPoint x="977" y="904" />
-              <mxPoint x="977" y="1014" />
-              <mxPoint x="1037" y="1014" />
-              <mxPoint x="1037" y="1016" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xMZC_koo7cCIHgZrxQN9-132" value="&lt;b&gt;EvalAuto&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
