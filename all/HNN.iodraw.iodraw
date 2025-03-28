@@ -392,9 +392,13 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="850" y="740" as="sourcePoint" />
             <mxPoint x="877" y="663" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="850" y="750" />
+              <mxPoint x="975" y="750" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xMZC_koo7cCIHgZrxQN9-90" value="shift_value" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xMZC_koo7cCIHgZrxQN9-90" value="shift_value" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="880" y="718" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
