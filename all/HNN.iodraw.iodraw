@@ -212,13 +212,13 @@
         </mxCell>
         <mxCell id="xMZC_koo7cCIHgZrxQN9-26" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontSize=12;verticalAlign=middle;align=right;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xMZC_koo7cCIHgZrxQN9-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="46" y="650" as="sourcePoint" />
+            <mxPoint x="60" y="650" as="sourcePoint" />
             <mxPoint x="116" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xMZC_koo7cCIHgZrxQN9-27" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontSize=12;verticalAlign=middle;align=right;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xMZC_koo7cCIHgZrxQN9-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="730" as="sourcePoint" />
+            <mxPoint x="60" y="730" as="sourcePoint" />
             <mxPoint x="116" y="709.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
