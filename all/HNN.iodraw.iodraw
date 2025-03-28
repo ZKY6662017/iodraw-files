@@ -277,7 +277,7 @@
             <mxPoint x="566" y="652.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xMZC_koo7cCIHgZrxQN9-52" value="RLWE_a" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontStyle=1;fontSize=10;" vertex="1" connectable="0" parent="xMZC_koo7cCIHgZrxQN9-51">
+        <mxCell id="xMZC_koo7cCIHgZrxQN9-52" value="RLWE (a,b)" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontStyle=1;fontSize=10;" vertex="1" connectable="0" parent="xMZC_koo7cCIHgZrxQN9-51">
           <mxGeometry x="0.0509" y="2" relative="1" as="geometry">
             <mxPoint x="-19" y="-1" as="offset" />
           </mxGeometry>
