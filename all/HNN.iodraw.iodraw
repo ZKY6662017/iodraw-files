@@ -435,13 +435,10 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="786.06" y="960" as="sourcePoint" />
             <mxPoint x="842.06" y="960" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="800" y="970" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xMZC_koo7cCIHgZrxQN9-99" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="795" y="950" width="20" height="20" as="geometry" />
+          <mxGeometry x="800" y="950" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
