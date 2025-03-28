@@ -304,7 +304,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xMZC_koo7cCIHgZrxQN9-65" value="LWEs" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontStyle=1;fontSize=10;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1275" y="496" as="geometry" />
+          <mxGeometry x="1275" y="496" as="geometry">
+            <mxPoint x="-465" y="268" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xMZC_koo7cCIHgZrxQN9-67" value="&lt;b&gt;PackLWEs&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1232" y="579" width="110" height="40" as="geometry" />
