@@ -514,17 +514,6 @@
             <mxPoint x="-15" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xMZC_koo7cCIHgZrxQN9-135" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontSize=12;verticalAlign=middle;align=right;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="984" y="1033" as="sourcePoint" />
-            <mxPoint x="1040" y="1033.31" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xMZC_koo7cCIHgZrxQN9-136" value="cb" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontStyle=1;fontSize=10;" vertex="1" connectable="0" parent="xMZC_koo7cCIHgZrxQN9-135">
-          <mxGeometry x="0.0509" y="2" relative="1" as="geometry">
-            <mxPoint x="-15" y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xMZC_koo7cCIHgZrxQN9-137" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontSize=12;verticalAlign=middle;align=right;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xMZC_koo7cCIHgZrxQN9-141">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1150" y="1012.16" as="sourcePoint" />
@@ -579,7 +568,7 @@
         <mxCell id="xMZC_koo7cCIHgZrxQN9-152" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1007" y="1023.03" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xMZC_koo7cCIHgZrxQN9-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xMZC_koo7cCIHgZrxQN9-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xMZC_koo7cCIHgZrxQN9-132">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="945" y="952.71" as="sourcePoint" />
             <mxPoint x="977" y="983" as="targetPoint" />
