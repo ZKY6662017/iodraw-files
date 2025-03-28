@@ -174,9 +174,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xMZC_koo7cCIHgZrxQN9-14" value="&lt;b&gt;Scheme&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Switching&lt;/b&gt;&lt;div&gt;&lt;b&gt;RLWEToLWE&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1070" y="460" width="110" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="xMZC_koo7cCIHgZrxQN9-15" value="&lt;b&gt;Scheme&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Switching&lt;/b&gt;&lt;div&gt;&lt;b&gt;LWEToRLWE&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1070" y="393" width="110" height="40" as="geometry" />
         </mxCell>
@@ -279,7 +276,7 @@
         </mxCell>
         <mxCell id="xMZC_koo7cCIHgZrxQN9-52" value="RLWE (a,b)" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontStyle=1;fontSize=10;" vertex="1" connectable="0" parent="xMZC_koo7cCIHgZrxQN9-51">
           <mxGeometry x="0.0509" y="2" relative="1" as="geometry">
-            <mxPoint x="-19" y="-1" as="offset" />
+            <mxPoint x="-18" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xMZC_koo7cCIHgZrxQN9-56" value="&lt;b&gt;Scheme&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Switching&lt;/b&gt;&lt;div&gt;&lt;b&gt;RLWEToLWE&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
