@@ -533,7 +533,7 @@
         <mxCell id="Q2YECFpXbE-agvKh--ic-11" value="ReLu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="395" width="42" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="Q2YECFpXbE-agvKh--ic-14" value="ReLu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q2YECFpXbE-agvKh--ic-14" value="Boot" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="431.77" width="42" height="15" as="geometry" />
         </mxCell>
       </root>
