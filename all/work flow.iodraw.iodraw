@@ -601,12 +601,6 @@
         <mxCell id="Q2YECFpXbE-agvKh--ic-222" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;" vertex="1" parent="1">
           <mxGeometry x="180" y="305" width="30" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="Q2YECFpXbE-agvKh--ic-225" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#AC38D6;" vertex="1" parent="1">
-          <mxGeometry x="850" y="371.98" width="60" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="Q2YECFpXbE-agvKh--ic-226" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#AC38D6;" vertex="1" parent="1">
-          <mxGeometry x="855" y="376.98" width="60" height="15" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
