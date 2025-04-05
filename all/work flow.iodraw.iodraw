@@ -396,8 +396,8 @@
             <mxPoint x="539.55" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zk8Pc5NeofVOBCsudM91-131" value="x1w1+b1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="453.03" y="205" width="57.52" height="15" as="geometry" />
+        <mxCell id="zk8Pc5NeofVOBCsudM91-131" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="360" width="57.52" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
