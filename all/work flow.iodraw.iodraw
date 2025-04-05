@@ -190,9 +190,10 @@
         <mxCell id="zk8Pc5NeofVOBCsudM91-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="509.48" y="410" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zk8Pc5NeofVOBCsudM91-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zk8Pc5NeofVOBCsudM91-50">
+        <mxCell id="zk8Pc5NeofVOBCsudM91-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="615" y="319.48" as="targetPoint" />
+            <mxPoint x="616" y="295" as="targetPoint" />
+            <mxPoint x="600" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zk8Pc5NeofVOBCsudM91-50" value="z&lt;sub&gt;1&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
@@ -377,7 +378,7 @@
           <mxGeometry x="569.97" y="274.48" width="20" height="15" as="geometry" />
         </mxCell>
         <mxCell id="zk8Pc5NeofVOBCsudM91-123" value="b&lt;sub&gt;1&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="515" y="260" width="20" height="15" as="geometry" />
+          <mxGeometry x="616" y="311.98" width="20" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
