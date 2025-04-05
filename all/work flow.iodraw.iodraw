@@ -396,8 +396,11 @@
             <mxPoint x="539.55" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zk8Pc5NeofVOBCsudM91-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zk8Pc5NeofVOBCsudM91-131" target="zk8Pc5NeofVOBCsudM91-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zk8Pc5NeofVOBCsudM91-131" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="135" y="360" width="30" height="15" as="geometry" />
+          <mxGeometry x="150" y="360" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="zk8Pc5NeofVOBCsudM91-132" value="INTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="345" width="30" height="15" as="geometry" />
@@ -421,6 +424,9 @@
           <mxGeometry x="-0.5538" y="1" relative="1" as="geometry">
             <mxPoint x="-5" y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zk8Pc5NeofVOBCsudM91-138" value="x&lt;sub&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="173" y="351" width="35" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
