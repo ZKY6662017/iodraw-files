@@ -339,8 +339,8 @@
         <mxCell id="zk8Pc5NeofVOBCsudM91-110" value="b1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="255" width="20" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="zk8Pc5NeofVOBCsudM91-112" value="b1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="503" y="215" width="162" height="15" as="geometry" />
+        <mxCell id="zk8Pc5NeofVOBCsudM91-112" value="ReLu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="503" y="215" width="42" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
