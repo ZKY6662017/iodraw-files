@@ -530,13 +530,11 @@
             <mxPoint x="-1" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q2YECFpXbE-agvKh--ic-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q2YECFpXbE-agvKh--ic-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="376" y="425.0000000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Q2YECFpXbE-agvKh--ic-11" value="ReLu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="395" width="42" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2YECFpXbE-agvKh--ic-14" value="ReLu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="431.77" width="42" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
