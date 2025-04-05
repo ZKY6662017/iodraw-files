@@ -727,7 +727,7 @@
         <mxCell id="Q2YECFpXbE-agvKh--ic-283" value="INTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="923.5699999999999" y="440" width="48" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="Q2YECFpXbE-agvKh--ic-284" value="MULT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q2YECFpXbE-agvKh--ic-284" value="SS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="875.51" y="440" width="48" height="15" as="geometry" />
         </mxCell>
       </root>
