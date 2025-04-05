@@ -758,22 +758,22 @@
           <mxGeometry x="923" y="455" width="48" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Q2YECFpXbE-agvKh--ic-294" value="CKKS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="837" y="450" width="48" height="15" as="geometry" />
+          <mxGeometry x="923" y="470" width="48" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Q2YECFpXbE-agvKh--ic-295" value="FHEW" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980.9999999999999" y="450" width="48" height="15" as="geometry" />
+          <mxGeometry x="1067" y="470" width="48" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Q2YECFpXbE-agvKh--ic-296" value="SS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="933" y="450" width="48" height="15" as="geometry" />
+          <mxGeometry x="1019" y="470" width="48" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Q2YECFpXbE-agvKh--ic-297" value="SS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1029" y="450" width="48" height="15" as="geometry" />
+          <mxGeometry x="1115" y="470" width="48" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Q2YECFpXbE-agvKh--ic-298" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="789" y="450" width="48" height="15" as="geometry" />
+          <mxGeometry x="875" y="470" width="48" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Q2YECFpXbE-agvKh--ic-299" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="885" y="450" width="48" height="15" as="geometry" />
+          <mxGeometry x="971" y="470" width="48" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
