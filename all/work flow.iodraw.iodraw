@@ -601,8 +601,8 @@
         <mxCell id="Q2YECFpXbE-agvKh--ic-222" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;" vertex="1" parent="1">
           <mxGeometry x="180" y="305" width="30" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="Q2YECFpXbE-agvKh--ic-223" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;strokeColor=#FF9933;" vertex="1" parent="1">
-          <mxGeometry x="310" y="340" width="249.5" height="185" as="geometry" />
+        <mxCell id="Q2YECFpXbE-agvKh--ic-224" value="y1w2+b2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="240" width="57.52" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
