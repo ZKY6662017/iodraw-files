@@ -399,9 +399,9 @@
         <mxCell id="zk8Pc5NeofVOBCsudM91-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zk8Pc5NeofVOBCsudM91-131" target="zk8Pc5NeofVOBCsudM91-134">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zk8Pc5NeofVOBCsudM91-154" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zk8Pc5NeofVOBCsudM91-137">
+        <mxCell id="zk8Pc5NeofVOBCsudM91-154" value="x&lt;sub&gt;1&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zk8Pc5NeofVOBCsudM91-137">
           <mxGeometry x="-0.6364" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zk8Pc5NeofVOBCsudM91-131" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
