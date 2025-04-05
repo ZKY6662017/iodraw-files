@@ -793,6 +793,12 @@
         <mxCell id="Q2YECFpXbE-agvKh--ic-308" value="1&lt;div&gt;0&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=7.989999999999782;horizontal=0;fillColor=#6fb15a;" vertex="1" parent="1">
           <mxGeometry x="465.52" y="610" width="40.03" height="13.01" as="geometry" />
         </mxCell>
+        <mxCell id="Q2YECFpXbE-agvKh--ic-309" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.903;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="328.5" y="555" as="sourcePoint" />
+            <mxPoint x="328.5" y="602" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
