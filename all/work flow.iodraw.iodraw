@@ -790,7 +790,7 @@
         <mxCell id="Q2YECFpXbE-agvKh--ic-307" value="&lt;b&gt;-&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;strokeWidth=1;fontSize=20;fillColor=#E8615D;verticalAlign=middle;horizontal=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="409" y="575" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Q2YECFpXbE-agvKh--ic-308" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Q2YECFpXbE-agvKh--ic-308" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="449.03" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
