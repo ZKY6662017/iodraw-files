@@ -340,10 +340,13 @@
           <mxGeometry x="510" y="255" width="20" height="15" as="geometry" />
         </mxCell>
         <mxCell id="zk8Pc5NeofVOBCsudM91-112" value="ReLu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="503" y="215" width="42" height="15" as="geometry" />
+          <mxGeometry x="534.97" y="215" width="42" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="zk8Pc5NeofVOBCsudM91-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zk8Pc5NeofVOBCsudM91-113" target="zk8Pc5NeofVOBCsudM91-112">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zk8Pc5NeofVOBCsudM91-113" value="x1w1+b1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="567.48" y="215" width="57.52" height="15" as="geometry" />
+          <mxGeometry x="445" y="215" width="57.52" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
