@@ -397,7 +397,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zk8Pc5NeofVOBCsudM91-131" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="360" width="30" height="15" as="geometry" />
+          <mxGeometry x="135" y="360" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="zk8Pc5NeofVOBCsudM91-132" value="INTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="345" width="30" height="15" as="geometry" />
@@ -419,7 +419,7 @@
         </mxCell>
         <mxCell id="zk8Pc5NeofVOBCsudM91-136" value="w&lt;sub&gt;11&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zk8Pc5NeofVOBCsudM91-135">
           <mxGeometry x="-0.5538" y="1" relative="1" as="geometry">
-            <mxPoint x="-15" y="1" as="offset" />
+            <mxPoint x="-5" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
