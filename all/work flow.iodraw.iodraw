@@ -599,7 +599,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q2YECFpXbE-agvKh--ic-222" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;" vertex="1" parent="1">
-          <mxGeometry x="180" y="305" width="30" height="15" as="geometry" />
+          <mxGeometry x="120" y="315" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Q2YECFpXbE-agvKh--ic-227" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="345.73" width="48" height="15" as="geometry" />
@@ -779,7 +779,7 @@
           <mxGeometry x="10" y="190" width="191.25" height="90.43" as="geometry" />
         </mxCell>
         <mxCell id="Q2YECFpXbE-agvKh--ic-303" value="INTT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="65" y="349.48" width="30" height="15" as="geometry" />
+          <mxGeometry x="160" y="315" width="30" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
