@@ -548,6 +548,9 @@
         <mxCell id="Q2YECFpXbE-agvKh--ic-17" value="SS:LWEToRLWE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="495" width="101" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="Q2YECFpXbE-agvKh--ic-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.083;entryY=-0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q2YECFpXbE-agvKh--ic-14" target="Q2YECFpXbE-agvKh--ic-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
