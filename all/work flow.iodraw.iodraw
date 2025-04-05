@@ -399,7 +399,7 @@
             <mxPoint x="703.05" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zk8Pc5NeofVOBCsudM91-131" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="zk8Pc5NeofVOBCsudM91-131" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;" vertex="1" parent="1">
           <mxGeometry x="354" y="360.73" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Q2YECFpXbE-agvKh--ic-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zk8Pc5NeofVOBCsudM91-132" target="Q2YECFpXbE-agvKh--ic-3">
@@ -574,7 +574,7 @@
             <mxPoint y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q2YECFpXbE-agvKh--ic-33" value="Next Layer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q2YECFpXbE-agvKh--ic-33" value="Next Layer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;" vertex="1" parent="1">
           <mxGeometry x="443" y="490" width="101" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Q2YECFpXbE-agvKh--ic-210" value="CKKS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#943e3b;fontStyle=0;strokeWidth=2;fontColor=#FFFFFF;" vertex="1" parent="1">
