@@ -402,6 +402,12 @@
         <mxCell id="zk8Pc5NeofVOBCsudM91-132" value="INTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="345" width="30" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="zk8Pc5NeofVOBCsudM91-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="375" as="targetPoint" />
+            <mxPoint x="579" y="375" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
