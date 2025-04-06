@@ -51,7 +51,7 @@
             <mxPoint x="592.47" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zk8Pc5NeofVOBCsudM91-105" value="w&lt;sub&gt;11&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#e27979;" vertex="1" connectable="0" parent="zk8Pc5NeofVOBCsudM91-55">
+        <mxCell id="zk8Pc5NeofVOBCsudM91-105" value="w&lt;sub&gt;11&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#660f0f;labelBackgroundColor=none;" vertex="1" connectable="0" parent="zk8Pc5NeofVOBCsudM91-55">
           <mxGeometry x="0.0621" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -80,7 +80,7 @@
             <mxPoint x="622.47" y="399" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zk8Pc5NeofVOBCsudM91-106" value="w&lt;sub&gt;12&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#e27979;" vertex="1" connectable="0" parent="zk8Pc5NeofVOBCsudM91-59">
+        <mxCell id="zk8Pc5NeofVOBCsudM91-106" value="w&lt;sub&gt;12&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#660f0f;labelBackgroundColor=none;" vertex="1" connectable="0" parent="zk8Pc5NeofVOBCsudM91-59">
           <mxGeometry x="0.232" relative="1" as="geometry">
             <mxPoint x="3" y="-10" as="offset" />
           </mxGeometry>
@@ -109,7 +109,7 @@
             <mxPoint x="622.47" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zk8Pc5NeofVOBCsudM91-107" value="w&lt;sub&gt;13&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#e27979;" vertex="1" connectable="0" parent="zk8Pc5NeofVOBCsudM91-64">
+        <mxCell id="zk8Pc5NeofVOBCsudM91-107" value="w&lt;sub&gt;13&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#660f0f;labelBackgroundColor=none;" vertex="1" connectable="0" parent="zk8Pc5NeofVOBCsudM91-64">
           <mxGeometry x="0.1464" y="1" relative="1" as="geometry">
             <mxPoint y="-7" as="offset" />
           </mxGeometry>
