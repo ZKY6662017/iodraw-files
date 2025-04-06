@@ -785,10 +785,10 @@
           <mxGeometry x="110" y="424.47999999999996" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Q2YECFpXbE-agvKh--ic-323" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;" vertex="1" parent="1">
-          <mxGeometry x="150" y="424.47999999999996" width="30" height="15" as="geometry" />
+          <mxGeometry x="140" y="424.47999999999996" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Q2YECFpXbE-agvKh--ic-324" value="DSD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;" vertex="1" parent="1">
-          <mxGeometry x="180" y="424.47999999999996" width="30" height="15" as="geometry" />
+          <mxGeometry x="170" y="424.47999999999996" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Q2YECFpXbE-agvKh--ic-325" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;" vertex="1" parent="1">
           <mxGeometry x="215" y="424.99999999999994" width="30" height="15" as="geometry" />
