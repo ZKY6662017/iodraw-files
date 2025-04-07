@@ -391,8 +391,8 @@
         <mxCell id="ax6h_PtIaMA2tAxX347z-448" value="&lt;b&gt;URAM&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="949.9699999999999" y="640" width="84" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-470" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="559" y="800" width="120" height="60" as="geometry" />
+        <mxCell id="ax6h_PtIaMA2tAxX347z-471" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="537.97" y="420" width="482.03" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
