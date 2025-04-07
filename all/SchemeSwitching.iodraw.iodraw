@@ -173,7 +173,7 @@
           <mxGeometry x="549.97" y="133" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-96" value="Tau" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="527.97" y="490" width="182.03" height="40" as="geometry" />
+          <mxGeometry x="527.97" y="490" width="42.03" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
