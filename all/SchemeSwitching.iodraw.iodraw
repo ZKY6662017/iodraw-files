@@ -221,7 +221,7 @@
         <mxCell id="r9dhdnQxUIONP2W6--uG-63" value="ModReduce" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="419.08" y="420" width="70.42" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="r9dhdnQxUIONP2W6--uG-64" value="ModReduce" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="r9dhdnQxUIONP2W6--uG-64" value="ModReduce/ModSwitch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="429.08" y="430" width="180.92" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="r9dhdnQxUIONP2W6--uG-66" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
