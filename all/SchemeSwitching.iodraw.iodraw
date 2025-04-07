@@ -233,13 +233,13 @@
           <mxGeometry x="350" y="485" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-348" value="&lt;b&gt;ModReduce/Switch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="481" y="485" width="169" height="40" as="geometry" />
+          <mxGeometry x="481" y="485" width="169" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-350" value="&lt;b&gt;KeySwitch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="733.01" y="545" width="84" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-351" value="&lt;b&gt;ExtractLWE&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="734" y="485" width="84" height="40" as="geometry" />
+          <mxGeometry x="734" y="485" width="84" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-352" value="&lt;b&gt;Tau&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="481" y="545" width="84" height="25" as="geometry" />
@@ -263,10 +263,10 @@
           <mxGeometry x="649.01" y="545" width="84" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-364" value="&lt;b&gt;KeySwitch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="650" y="485" width="84" height="40" as="geometry" />
+          <mxGeometry x="650" y="485" width="84" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-365" value="&lt;b&gt;KeySwitch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="901.52" y="545" width="84" height="40" as="geometry" />
+          <mxGeometry x="901.52" y="545" width="84" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-366" value="&lt;b&gt;Tau&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="817.52" y="545" width="84" height="25" as="geometry" />
