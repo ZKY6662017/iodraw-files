@@ -359,7 +359,7 @@
             <mxPoint x="344.08" y="570.55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-39" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ax6h_PtIaMA2tAxX347z-39" value="Poly Depth" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="520" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
