@@ -248,7 +248,7 @@
           <mxGeometry x="568.48" y="545" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-355" value="&lt;b&gt;URAM&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="887.06" y="610" width="84" height="40" as="geometry" />
+          <mxGeometry x="484.47999999999996" y="610" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-356" value="&lt;b&gt;BRAM&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="568.48" y="610" width="84" height="40" as="geometry" />
@@ -270,6 +270,12 @@
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-366" value="&lt;b&gt;Tau&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="821" y="545" width="84" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ax6h_PtIaMA2tAxX347z-367" value="&lt;b&gt;URAM&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="652.49" y="610" width="84" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ax6h_PtIaMA2tAxX347z-368" value="&lt;b&gt;URAM&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="504.47999999999996" y="630" width="84" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
