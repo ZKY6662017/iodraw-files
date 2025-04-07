@@ -283,12 +283,6 @@
         <mxCell id="ax6h_PtIaMA2tAxX347z-364" value="&lt;b&gt;KeySwitch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="733.52" y="430.44" width="84" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-367" value="&lt;b&gt;URAM&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="657" y="700" width="84" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-368" value="&lt;b&gt;URAM&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="818.02" y="660" width="84" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-369" value="&lt;b&gt;BRAM&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="523.02" y="375.44" width="84" height="40" as="geometry" />
         </mxCell>
