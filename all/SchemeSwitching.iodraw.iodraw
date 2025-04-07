@@ -269,6 +269,9 @@
         <mxCell id="ax6h_PtIaMA2tAxX347z-4" value="NewModule" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="424.12" y="320" width="65.88" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="ax6h_PtIaMA2tAxX347z-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="348" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
