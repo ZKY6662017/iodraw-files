@@ -386,6 +386,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ax6h_PtIaMA2tAxX347z-156" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ax6h_PtIaMA2tAxX347z-142" target="ax6h_PtIaMA2tAxX347z-152">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="892.76" y="616.04" as="sourcePoint" />
+            <mxPoint x="933.76" y="567.04" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="891" y="616" />
+              <mxPoint x="913" y="616" />
+              <mxPoint x="913" y="563" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
