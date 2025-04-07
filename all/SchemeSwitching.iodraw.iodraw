@@ -202,9 +202,6 @@
         <mxCell id="ax6h_PtIaMA2tAxX347z-105" value="KeySwitch" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" vertex="1" parent="ax6h_PtIaMA2tAxX347z-106">
           <mxGeometry y="23.25999999999999" width="87.06" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-107" value="Tau" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="702.97" y="530" width="42.03" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
