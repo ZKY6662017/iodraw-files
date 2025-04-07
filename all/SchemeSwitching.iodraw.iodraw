@@ -194,10 +194,10 @@
           <mxGeometry x="682.94" y="610" width="42.03" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-104" value="Tau" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="732.97" y="610" width="42.03" height="20" as="geometry" />
+          <mxGeometry x="727.97" y="610" width="42.03" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-105" value="KeySwitch" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="682.94" y="643.37" width="87.06" height="20" as="geometry" />
+          <mxGeometry x="682.94" y="633.26" width="87.06" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
