@@ -388,66 +388,6 @@
         <mxCell id="ax6h_PtIaMA2tAxX347z-448" value="&lt;b&gt;URAM&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="960.9999999999999" y="560" width="84" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-449" value="ModReduce" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1068.03" y="570" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-450" value="ModSwitch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1138.03" y="570" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-451" value="ExtractLWE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1348.03" y="570" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-452" value="KeySwitch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1278.03" y="570" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-453" value="Decompose" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1208.03" y="570" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-454" value="ModReduce" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1092.03" y="585" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-455" value="ModSwitch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1162.03" y="585" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-456" value="ExtractLWE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1372.03" y="585" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-457" value="KeySwitch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1302.03" y="585" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-458" value="Decompose" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1232.03" y="585" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-459" value="ModReduce" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1118.03" y="600" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-460" value="ModSwitch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1188.03" y="600" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-461" value="ExtractLWE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1398.03" y="600" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-462" value="KeySwitch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1328.03" y="600" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-463" value="Decompose" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1258.03" y="600" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-464" value="ModReduce" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="615" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-465" value="ModSwitch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="615" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-466" value="ExtractLWE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="615" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-467" value="KeySwitch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="615" width="70" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-468" value="Decompose" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="615" width="70" height="15" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
