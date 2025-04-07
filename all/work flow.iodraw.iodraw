@@ -28,9 +28,9 @@
         <mxCell id="zk8Pc5NeofVOBCsudM91-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="986.95" y="480" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zk8Pc5NeofVOBCsudM91-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zk8Pc5NeofVOBCsudM91-50" target="zk8Pc5NeofVOBCsudM91-123" edge="1">
+        <mxCell id="zk8Pc5NeofVOBCsudM91-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zk8Pc5NeofVOBCsudM91-50" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1093.47" y="365" as="targetPoint" />
+            <mxPoint x="1090" y="470" as="targetPoint" />
             <mxPoint x="1077.47" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
