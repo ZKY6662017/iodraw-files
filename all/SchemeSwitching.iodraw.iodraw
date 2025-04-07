@@ -449,8 +449,8 @@
             <mxPoint x="957.7" y="434.26" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-170" value="ca_even" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="518.52" y="650" width="70" height="30" as="geometry" />
+        <mxCell id="ax6h_PtIaMA2tAxX347z-170" value="Poly Shift stage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="498.52" y="650" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
