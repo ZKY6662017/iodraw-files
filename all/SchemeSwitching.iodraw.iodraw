@@ -395,13 +395,13 @@
           <mxGeometry x="1138.03" y="570" width="70" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-451" value="ExtractLWE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="570" width="70" height="15" as="geometry" />
+          <mxGeometry x="1348.03" y="570" width="70" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-452" value="KeySwitch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="570" width="70" height="15" as="geometry" />
+          <mxGeometry x="1278.03" y="570" width="70" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-453" value="Decompose" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1208.03" y="595" width="70" height="15" as="geometry" />
+          <mxGeometry x="1208.03" y="570" width="70" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
