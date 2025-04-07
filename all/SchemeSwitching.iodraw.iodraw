@@ -340,6 +340,18 @@
         <mxCell id="ax6h_PtIaMA2tAxX347z-420" value="&lt;b&gt;KeySwitch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="763.01" y="575" width="84" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="ax6h_PtIaMA2tAxX347z-421" value="&lt;b&gt;Tau&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="827.52" y="555" width="84" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ax6h_PtIaMA2tAxX347z-422" value="&lt;b&gt;KeySwitch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="911.52" y="555" width="84" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ax6h_PtIaMA2tAxX347z-423" value="&lt;b&gt;KeySwitch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="921.52" y="565" width="84" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ax6h_PtIaMA2tAxX347z-424" value="&lt;b&gt;KeySwitch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="931.52" y="575" width="84" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
