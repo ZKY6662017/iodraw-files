@@ -236,13 +236,13 @@
           <mxGeometry x="775" y="470" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-348" value="&lt;b&gt;ModReduce/Switch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="469.48" y="480" width="180.52" height="40" as="geometry" />
+          <mxGeometry x="429.23" y="350" width="180.52" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-350" value="&lt;b&gt;KeySwitch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="469.49" y="530" width="84" height="40" as="geometry" />
+          <mxGeometry x="652.48" y="350" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-351" value="&lt;b&gt;ExtractLWE&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="568.49" y="530" width="84" height="40" as="geometry" />
+          <mxGeometry x="770" y="350" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-352" value="&lt;b&gt;Tau&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="445" y="660" width="84" height="40" as="geometry" />
