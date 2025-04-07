@@ -68,7 +68,7 @@
           <mxGeometry x="854.06" y="355" width="48" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-223" value="PolyShift" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="390" width="80" height="15" as="geometry" />
+          <mxGeometry x="730" y="390" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-224" value="INTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="806.06" y="355" width="48" height="15" as="geometry" />
@@ -113,16 +113,16 @@
           <mxGeometry x="1100" y="420" width="80" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-242" value="PolyShift" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="430" width="80" height="15" as="geometry" />
+          <mxGeometry x="940" y="435" width="80" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-243" value="PolyAdd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="430" width="80" height="15" as="geometry" />
+          <mxGeometry x="1020" y="435" width="80" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-244" value="EvalAuto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="430" width="80" height="15" as="geometry" />
+          <mxGeometry x="1100" y="435" width="80" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-245" value="EvalaTrace" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="430" width="80" height="15" as="geometry" />
+          <mxGeometry x="1180" y="435" width="80" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
