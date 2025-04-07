@@ -230,16 +230,16 @@
           <mxGeometry x="549.97" y="133" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-347" value="&lt;b&gt;Scheme&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Switching&lt;/b&gt;&lt;div&gt;&lt;b&gt;RLWEToLWE&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="485" width="110" height="40" as="geometry" />
+          <mxGeometry x="340" y="375.44" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-348" value="&lt;b&gt;ModReduce/Switch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="481" y="485" width="169" height="25" as="geometry" />
+          <mxGeometry x="471" y="375.44" width="169" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-350" value="&lt;b&gt;KeySwitch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="733.01" y="545" width="84" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-351" value="&lt;b&gt;ExtractLWE&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="734" y="485" width="84" height="25" as="geometry" />
+          <mxGeometry x="724" y="375.44" width="84" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-352" value="&lt;b&gt;Tau&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="481" y="545" width="84" height="25" as="geometry" />
@@ -263,7 +263,7 @@
           <mxGeometry x="649.01" y="545" width="84" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-364" value="&lt;b&gt;KeySwitch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="650" y="485" width="84" height="25" as="geometry" />
+          <mxGeometry x="640" y="375.44" width="84" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-365" value="&lt;b&gt;KeySwitch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="901.52" y="545" width="84" height="25" as="geometry" />
@@ -278,12 +278,12 @@
           <mxGeometry x="818" y="586" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-369" value="&lt;b&gt;BRAM&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="523.5" y="430" width="84" height="40" as="geometry" />
+          <mxGeometry x="513.5" y="320.44" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-370" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ax6h_PtIaMA2tAxX347z-369" target="ax6h_PtIaMA2tAxX347z-348">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="571.26" y="470" as="sourcePoint" />
-            <mxPoint x="568.52" y="495" as="targetPoint" />
+            <mxPoint x="561.26" y="360.44" as="sourcePoint" />
+            <mxPoint x="558.52" y="385.44" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-371" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ax6h_PtIaMA2tAxX347z-355" target="ax6h_PtIaMA2tAxX347z-352">
