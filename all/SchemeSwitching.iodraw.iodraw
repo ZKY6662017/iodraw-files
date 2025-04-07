@@ -308,7 +308,7 @@
           <mxGeometry x="717.97" y="476.74" width="26.52" height="26.52" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-138" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="770" y="572.78" width="87.05999999999995" height="43.25999999999999" as="geometry" />
+          <mxGeometry x="750" y="570" width="87.05999999999995" height="43.25999999999999" as="geometry" />
         </mxCell>
         <mxCell id="ax6h_PtIaMA2tAxX347z-103" value="Tau" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1;fillColor=#e0d5e7;container=0;" vertex="1" parent="ax6h_PtIaMA2tAxX347z-138">
           <mxGeometry width="42.03" height="20" as="geometry" />
