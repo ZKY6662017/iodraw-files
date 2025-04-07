@@ -382,6 +382,12 @@
         <mxCell id="ax6h_PtIaMA2tAxX347z-444" value="&lt;b&gt;BRAM&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="680" y="690" width="84" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ax6h_PtIaMA2tAxX347z-445" value="&lt;b&gt;BRAM&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="690" y="700" width="84" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ax6h_PtIaMA2tAxX347z-448" value="&lt;b&gt;URAM&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="564.9699999999999" y="690" width="84" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
