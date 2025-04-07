@@ -454,7 +454,7 @@
         <mxCell id="ouJtWnmKuWLmjfc9P6xK-8" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="567.5" width="340" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="ouJtWnmKuWLmjfc9P6xK-11" value="PackLWEs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ouJtWnmKuWLmjfc9P6xK-11" value="&lt;b&gt;PackLWEs&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="577" width="86.03" height="23" as="geometry" />
         </mxCell>
       </root>
