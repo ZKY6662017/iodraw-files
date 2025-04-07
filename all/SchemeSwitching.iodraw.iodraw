@@ -452,6 +452,12 @@
         <mxCell id="ax6h_PtIaMA2tAxX347z-173" value="Poly shift stage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="518" y="665.26" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ax6h_PtIaMA2tAxX347z-174" value="Poly add/sub stage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="595.23" y="665.26" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ax6h_PtIaMA2tAxX347z-175" value="Poly add/sub stage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="605.23" y="675.26" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
