@@ -269,10 +269,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="ax6h_PtIaMA2tAxX347z-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ax6h_PtIaMA2tAxX347z-100">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="683.45" y="489.83" as="sourcePoint" />
-            <mxPoint x="732.45" y="489.83" as="targetPoint" />
+            <mxPoint x="720" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ax6h_PtIaMA2tAxX347z-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="678" y="523.09" as="sourcePoint" />
+            <mxPoint x="760" y="523.09" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
