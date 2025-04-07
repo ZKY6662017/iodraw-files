@@ -458,7 +458,7 @@
         <mxCell id="ax6h_PtIaMA2tAxX347z-175" value="EvalAuto stage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="691" y="675.26" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-176" value="EvalAuto stage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ax6h_PtIaMA2tAxX347z-176" value="EvalTrace stage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="846" y="675.26" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
