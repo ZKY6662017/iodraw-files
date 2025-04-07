@@ -309,8 +309,11 @@
             <mxPoint x="433.01" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ax6h_PtIaMA2tAxX347z-23" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&amp;lt;&amp;lt;Reduce factor&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="259.5" y="440" width="65.88" height="15" as="geometry" />
+        <mxCell id="ax6h_PtIaMA2tAxX347z-23" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&amp;lt;&amp;lt;Reduce factor&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="276.06" y="420" width="65.88" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="ax6h_PtIaMA2tAxX347z-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.496;entryY=-0.168;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ax6h_PtIaMA2tAxX347z-23" target="ax6h_PtIaMA2tAxX347z-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
