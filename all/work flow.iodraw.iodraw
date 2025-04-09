@@ -504,8 +504,8 @@
         <mxCell id="_W3Gkm2ymsYQNv5Sx8ut-26" value="SS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1103.03" y="164.48" width="48" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="_W3Gkm2ymsYQNv5Sx8ut-27" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="134.48" width="48" height="15" as="geometry" />
+        <mxCell id="_W3Gkm2ymsYQNv5Sx8ut-27" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="237.5" width="48" height="15" as="geometry" />
         </mxCell>
         <mxCell id="_W3Gkm2ymsYQNv5Sx8ut-28" value="INTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="766.06" y="134.48" width="48" height="15" as="geometry" />
