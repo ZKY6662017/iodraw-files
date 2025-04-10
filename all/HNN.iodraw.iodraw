@@ -918,10 +918,7 @@
           <mxGeometry x="119.52999999999996" y="996.23" width="46.97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qVALV2ApFSQCOoxIfq6q-12" value="&lt;b&gt;R/W&lt;/b&gt;&lt;div&gt;&lt;b&gt;FIFO&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="170.5" y="989.23" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qVALV2ApFSQCOoxIfq6q-13" value="&lt;b&gt;R/W&lt;/b&gt;&lt;div&gt;&lt;b&gt;FIFO&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="176.5" y="996.23" width="60" height="40" as="geometry" />
+          <mxGeometry x="355" y="970" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qVALV2ApFSQCOoxIfq6q-14" value="&lt;b&gt;HBM&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="109.52999999999996" y="1046.23" width="126.97" height="30" as="geometry" />
