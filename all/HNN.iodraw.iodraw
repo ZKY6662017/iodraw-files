@@ -909,7 +909,7 @@
           <mxGeometry x="40.00000000000001" y="759.23" width="355" height="151.51" as="geometry" />
         </mxCell>
         <mxCell id="qVALV2ApFSQCOoxIfq6q-9" value="&lt;div style=&quot;padding-top: 0px; margin-top: 0px; font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;FPGA&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;fillOpacity=100;strokeOpacity=100;gradientColor=none;labelPadding=0;horizontal=1;verticalAlign=top;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="599.48" y="930" width="160" height="130" as="geometry" />
+          <mxGeometry x="343.03000000000003" y="944.23" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="qVALV2ApFSQCOoxIfq6q-10" value="&lt;b&gt;ModSwitch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="112.53" y="989.23" width="77.47" height="40" as="geometry" />
@@ -921,7 +921,7 @@
           <mxGeometry x="215.14999999999998" y="1049.23" width="87.97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qVALV2ApFSQCOoxIfq6q-12" value="&lt;b&gt;Bootstrapping&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="355" y="970" width="95" height="40" as="geometry" />
+          <mxGeometry x="230.75" y="964.23" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qVALV2ApFSQCOoxIfq6q-14" value="&lt;b&gt;HBM&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="542.9699999999999" y="1070" width="126.97" height="30" as="geometry" />
