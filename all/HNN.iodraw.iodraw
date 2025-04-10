@@ -914,8 +914,8 @@
         <mxCell id="qVALV2ApFSQCOoxIfq6q-10" value="&lt;b&gt;ModSwitch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="112.53" y="989.23" width="77.47" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qVALV2ApFSQCOoxIfq6q-11" value="&lt;b&gt;Our Work&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="242.02999999999997" y="1010" width="46.97" height="40" as="geometry" />
+        <mxCell id="qVALV2ApFSQCOoxIfq6q-11" value="&lt;b&gt;BlindRotation&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="242.03" y="1010" width="107.97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qVALV2ApFSQCOoxIfq6q-12" value="&lt;b&gt;Bootstrapping&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="355" y="970" width="95" height="40" as="geometry" />
@@ -930,7 +930,7 @@
           <mxGeometry x="132.53" y="1009.23" width="77.47" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qVALV2ApFSQCOoxIfq6q-18" value="&lt;b&gt;ModSwitch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="142.53" y="1019.23" width="77.47" height="40" as="geometry" />
+          <mxGeometry x="133" y="1100" width="77.47" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
