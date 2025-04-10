@@ -941,14 +941,14 @@
         <mxCell id="qVALV2ApFSQCOoxIfq6q-19" value="&lt;b&gt;KeySwitch&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="1049.23" width="87.97" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qVALV2ApFSQCOoxIfq6q-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="qVALV2ApFSQCOoxIfq6q-17">
+        <mxCell id="qVALV2ApFSQCOoxIfq6q-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="qVALV2ApFSQCOoxIfq6q-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="1029" as="sourcePoint" />
             <mxPoint x="50" y="1029.23" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qVALV2ApFSQCOoxIfq6q-24" value="&lt;b&gt;x_a&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1008" width="40" height="30" as="geometry" />
+          <mxGeometry x="70" y="1004.23" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
