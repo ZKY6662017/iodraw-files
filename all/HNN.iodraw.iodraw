@@ -1037,9 +1037,9 @@
             <mxPoint x="1040" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ICv5gNdMv0Frk2yzvhyp-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ICv5gNdMv0Frk2yzvhyp-1">
+        <mxCell id="ICv5gNdMv0Frk2yzvhyp-11" value="Hardware efficiency" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ICv5gNdMv0Frk2yzvhyp-1">
           <mxGeometry x="0.2611" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="87" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ICv5gNdMv0Frk2yzvhyp-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
