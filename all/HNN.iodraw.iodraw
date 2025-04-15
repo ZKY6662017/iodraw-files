@@ -1048,9 +1048,9 @@
             <mxPoint x="800" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ICv5gNdMv0Frk2yzvhyp-12" value="Model performance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ICv5gNdMv0Frk2yzvhyp-2">
+        <mxCell id="ICv5gNdMv0Frk2yzvhyp-12" value="Model performance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=0;" vertex="1" connectable="0" parent="ICv5gNdMv0Frk2yzvhyp-2">
           <mxGeometry x="0.8506" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-13" y="29" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ICv5gNdMv0Frk2yzvhyp-4" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
