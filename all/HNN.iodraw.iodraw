@@ -1033,13 +1033,13 @@
         </mxCell>
         <mxCell id="ICv5gNdMv0Frk2yzvhyp-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="803.03" y="1119.23" as="sourcePoint" />
+            <mxPoint x="800" y="1120" as="sourcePoint" />
             <mxPoint x="1021.03" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ICv5gNdMv0Frk2yzvhyp-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="1100" as="sourcePoint" />
+            <mxPoint x="800" y="1120" as="sourcePoint" />
             <mxPoint x="800" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
