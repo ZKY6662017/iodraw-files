@@ -567,10 +567,10 @@
           <mxGeometry x="270" y="360" width="20" height="42.48" as="geometry" />
         </mxCell>
         <mxCell id="PwuB7kymhnKzytdPFPTC-49" value="BOOT" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#dabeb9;" vertex="1" parent="1">
-          <mxGeometry x="290" y="360" width="35" height="42.48" as="geometry" />
+          <mxGeometry x="241" y="402.48" width="49" height="42.48" as="geometry" />
         </mxCell>
         <mxCell id="PwuB7kymhnKzytdPFPTC-50" value="SS" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#c3dae3;" vertex="1" parent="1">
-          <mxGeometry x="271.71" y="420" width="13" height="42.48" as="geometry" />
+          <mxGeometry x="357.5" y="402.48" width="13" height="42.48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
