@@ -134,10 +134,10 @@
           <mxGeometry x="990" y="150" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="luFJp2Oq7keXj1tNvS5Z-22" value="&lt;b&gt;BRAM&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d6e8d5;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="160" width="84" height="40" as="geometry" />
+          <mxGeometry x="860" y="125" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="luFJp2Oq7keXj1tNvS5Z-23" value="&lt;b&gt;URAM&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#77befc;" vertex="1" parent="1">
-          <mxGeometry x="815.7499999999999" y="60" width="84" height="40" as="geometry" />
+          <mxGeometry x="605.9999999999999" y="60" width="84" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
