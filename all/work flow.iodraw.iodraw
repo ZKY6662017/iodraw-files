@@ -558,10 +558,10 @@
           <mxGeometry x="215" y="360" width="13" height="42.48" as="geometry" />
         </mxCell>
         <mxCell id="PwuB7kymhnKzytdPFPTC-46" value="HADD" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#8b937c;" vertex="1" parent="1">
-          <mxGeometry x="219.71" y="420" width="13" height="42.48" as="geometry" />
+          <mxGeometry x="228" y="360" width="13" height="42.48" as="geometry" />
         </mxCell>
         <mxCell id="PwuB7kymhnKzytdPFPTC-47" value="SS" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#c3dae3;" vertex="1" parent="1">
-          <mxGeometry x="232.71" y="420" width="13" height="42.48" as="geometry" />
+          <mxGeometry x="241" y="360" width="29" height="42.48" as="geometry" />
         </mxCell>
         <mxCell id="PwuB7kymhnKzytdPFPTC-48" value="HReLU" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#8eabb6;" vertex="1" parent="1">
           <mxGeometry x="245.71" y="420" width="13" height="42.48" as="geometry" />
