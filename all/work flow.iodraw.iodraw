@@ -564,7 +564,7 @@
           <mxGeometry x="241" y="360" width="29" height="42.48" as="geometry" />
         </mxCell>
         <mxCell id="PwuB7kymhnKzytdPFPTC-48" value="HReLU" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#8eabb6;" vertex="1" parent="1">
-          <mxGeometry x="245.71" y="420" width="13" height="42.48" as="geometry" />
+          <mxGeometry x="270" y="360" width="13" height="42.48" as="geometry" />
         </mxCell>
         <mxCell id="PwuB7kymhnKzytdPFPTC-49" value="BOOT" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#dabeb9;" vertex="1" parent="1">
           <mxGeometry x="258.71" y="420" width="13" height="42.48" as="geometry" />
