@@ -131,7 +131,7 @@
           <mxGeometry x="860" y="125" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="luFJp2Oq7keXj1tNvS5Z-23" value="&lt;b&gt;URAM&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#77befc;" vertex="1" parent="1">
-          <mxGeometry x="721.58" y="130" width="84" height="140" as="geometry" />
+          <mxGeometry x="730" y="40" width="84" height="140" as="geometry" />
         </mxCell>
         <mxCell id="luFJp2Oq7keXj1tNvS5Z-24" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
