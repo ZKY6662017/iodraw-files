@@ -522,6 +522,9 @@
         <mxCell id="PwuB7kymhnKzytdPFPTC-110" value="SS" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#c3dae3;" vertex="1" parent="1">
           <mxGeometry x="792.5" y="205.71999999999997" width="29" height="42.48" as="geometry" />
         </mxCell>
+        <mxCell id="PwuB7kymhnKzytdPFPTC-111" value="&lt;b&gt;(a)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="806.5" y="95" width="15" height="12.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
