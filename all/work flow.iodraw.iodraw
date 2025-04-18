@@ -573,30 +573,6 @@
         <mxCell id="PwuB7kymhnKzytdPFPTC-127" value="SS" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#c3dae3;" vertex="1" parent="1">
           <mxGeometry x="721.47" y="349.48" width="29" height="42.48" as="geometry" />
         </mxCell>
-        <mxCell id="PwuB7kymhnKzytdPFPTC-128" value="HMULT" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#d8e4c2;" vertex="1" parent="1">
-          <mxGeometry x="587.6800000000001" y="391.96" width="21.29" height="42.48" as="geometry" />
-        </mxCell>
-        <mxCell id="PwuB7kymhnKzytdPFPTC-129" value="NTT" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#d9d9d9;" vertex="1" parent="1">
-          <mxGeometry x="573.97" y="391.96" width="13.71" height="42.48" as="geometry" />
-        </mxCell>
-        <mxCell id="PwuB7kymhnKzytdPFPTC-130" value="INTT" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#d9d9d9;" vertex="1" parent="1">
-          <mxGeometry x="608.97" y="391.96" width="13" height="42.48" as="geometry" />
-        </mxCell>
-        <mxCell id="PwuB7kymhnKzytdPFPTC-131" value="HADD" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#8b937c;" vertex="1" parent="1">
-          <mxGeometry x="621.97" y="391.96" width="13" height="42.48" as="geometry" />
-        </mxCell>
-        <mxCell id="PwuB7kymhnKzytdPFPTC-132" value="SS" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#c3dae3;" vertex="1" parent="1">
-          <mxGeometry x="634.97" y="391.96" width="29" height="42.48" as="geometry" />
-        </mxCell>
-        <mxCell id="PwuB7kymhnKzytdPFPTC-133" value="HReLU" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#8eabb6;" vertex="1" parent="1">
-          <mxGeometry x="663.97" y="391.96" width="20" height="42.48" as="geometry" />
-        </mxCell>
-        <mxCell id="PwuB7kymhnKzytdPFPTC-134" value="BOOT" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#dabeb9;" vertex="1" parent="1">
-          <mxGeometry x="683.97" y="391.96" width="42" height="42.48" as="geometry" />
-        </mxCell>
-        <mxCell id="PwuB7kymhnKzytdPFPTC-135" value="SS" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#c3dae3;" vertex="1" parent="1">
-          <mxGeometry x="725.97" y="391.96" width="29" height="42.48" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
