@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="E9L-HCrgdLpSqyCx8PGL-27" value="&lt;div style=&quot;padding-top: 0px; margin-top: 0px; font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;fillOpacity=100;strokeOpacity=100;gradientColor=none;labelPadding=0;horizontal=1;verticalAlign=top;fontSize=12;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="526.26" y="86.73" width="593.74" height="263.27" as="geometry" />
+        </mxCell>
         <mxCell id="gJefDyQGR8iJqrZZXaoh-263" value="&lt;div style=&quot;padding-top: 0px; margin-top: 0px; font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;fillOpacity=100;strokeOpacity=100;gradientColor=none;labelPadding=0;horizontal=1;verticalAlign=top;fontSize=12;fillColor=#bac8d3;" parent="1" vertex="1">
           <mxGeometry x="150" y="140" width="310" height="185.77" as="geometry" />
         </mxCell>
@@ -210,9 +213,6 @@
         </mxCell>
         <mxCell id="E9L-HCrgdLpSqyCx8PGL-26" value="&lt;b&gt;x_b&#39;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="950" y="240" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="E9L-HCrgdLpSqyCx8PGL-27" value="&lt;div style=&quot;padding-top: 0px; margin-top: 0px; font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;fillOpacity=100;strokeOpacity=100;gradientColor=none;labelPadding=0;horizontal=1;verticalAlign=top;fontSize=12;fillColor=#bac8d3;" vertex="1" parent="1">
-          <mxGeometry x="160" y="150" width="310" height="185.77" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
