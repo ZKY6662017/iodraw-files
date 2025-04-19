@@ -246,8 +246,8 @@
         <mxCell id="xFMm-Gr_Sllog6HZWx35-35" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;rotation=-50;" vertex="1" parent="1">
           <mxGeometry x="609.56" y="717.5" width="32.97" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="xFMm-Gr_Sllog6HZWx35-36" value="&lt;b&gt;Formal Secuorty Verification for Large-ScalDesign&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="807.97" y="675" width="120.03" height="30" as="geometry" />
+        <mxCell id="xFMm-Gr_Sllog6HZWx35-36" value="&lt;b&gt;Cryptographic Secure Somputing at Scale&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="504.22" y="815" width="135.78" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
