@@ -225,10 +225,10 @@
         <mxCell id="xFMm-Gr_Sllog6HZWx35-27" value="&lt;b&gt;Ye(TFHE)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="713.96" y="840" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xFMm-Gr_Sllog6HZWx35-28" value="&lt;b&gt;Utility/Accuracy&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="595" width="30" height="120" as="geometry" />
+        <mxCell id="xFMm-Gr_Sllog6HZWx35-28" value="&lt;b&gt;Utility/Accuracy&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="575" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xFMm-Gr_Sllog6HZWx35-29" value="&lt;b&gt;Run-time Performance /&lt;/b&gt;&lt;div&gt;&lt;b&gt;Efficiency&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xFMm-Gr_Sllog6HZWx35-29" value="&lt;b&gt;Speed /&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Efficiency&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="724.53" y="920" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-31" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;" vertex="1" parent="1">
