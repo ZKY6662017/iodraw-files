@@ -168,7 +168,7 @@
         <mxCell id="xFMm-Gr_Sllog6HZWx35-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="920" as="sourcePoint" />
-            <mxPoint x="1080" y="920" as="targetPoint" />
+            <mxPoint x="1000" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -229,7 +229,7 @@
           <mxGeometry x="430" y="525" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-29" value="&lt;b&gt;Run-time Performance/&lt;/b&gt;&lt;div&gt;&lt;b&gt;Efficiency&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="927.97" y="920" width="140" height="30" as="geometry" />
+          <mxGeometry x="852" y="930" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
