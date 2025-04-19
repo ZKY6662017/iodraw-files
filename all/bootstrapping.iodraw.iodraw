@@ -181,7 +181,7 @@
           <mxGeometry x="523.77" y="745" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;strokeWidth=3;fillColor=#FF0000;strokeColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="641.46" y="660" width="20" height="20" as="geometry" />
+          <mxGeometry x="639.5" y="635" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-11" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#6161FF;strokeColor=#6161FF;" parent="1" vertex="1">
           <mxGeometry x="612.53" y="675" width="20" height="20" as="geometry" />
@@ -202,7 +202,7 @@
           <mxGeometry x="503.77" y="705" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-18" value="&lt;b&gt;DRS(Hybrid)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="661.46" y="630" width="60" height="30" as="geometry" />
+          <mxGeometry x="659.5" y="605" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-19" value="&lt;b&gt;CraterLake(CKKS)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="502.5" y="675" width="60" height="30" as="geometry" />
