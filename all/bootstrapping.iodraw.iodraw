@@ -211,7 +211,7 @@
           <mxGeometry x="533.77" y="725" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-22" value="&lt;b&gt;FAB(CKKS)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="592.53" y="655" width="60" height="20" as="geometry" />
+          <mxGeometry x="572.53" y="655" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-23" value="&lt;b&gt;F1(CKKS)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="639.5" y="725" width="60" height="30" as="geometry" />
