@@ -181,7 +181,7 @@
           <mxGeometry x="750" y="710" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="591" y="630" width="20" height="20" as="geometry" />
+          <mxGeometry x="550" y="590" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-11" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="710" y="750" width="20" height="20" as="geometry" />
@@ -196,7 +196,10 @@
           <mxGeometry x="827" y="750" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-15" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="817" y="820" width="20" height="20" as="geometry" />
+          <mxGeometry x="780" y="740" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xFMm-Gr_Sllog6HZWx35-16" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="661.26" y="700" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
