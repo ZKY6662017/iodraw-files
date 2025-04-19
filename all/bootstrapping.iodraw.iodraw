@@ -207,6 +207,9 @@
         <mxCell id="xFMm-Gr_Sllog6HZWx35-19" value="&lt;b&gt;CraterLake(CKKS)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="630" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xFMm-Gr_Sllog6HZWx35-20" value="&lt;b&gt;HEAP(Hybrid)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
