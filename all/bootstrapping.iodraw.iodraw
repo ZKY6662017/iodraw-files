@@ -106,12 +106,12 @@
         </mxCell>
         <mxCell id="luFJp2Oq7keXj1tNvS5Z-16" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=1.02;entryY=0.858;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="996.8200000000002" y="250.53999999999996" as="sourcePoint" />
-            <mxPoint x="1078.4200000000003" y="250.74000000000012" as="targetPoint" />
+            <mxPoint x="1036.8200000000002" y="255.53999999999996" as="sourcePoint" />
+            <mxPoint x="1118.4200000000003" y="255.74000000000012" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="luFJp2Oq7keXj1tNvS5Z-17" value="&lt;b&gt;(x_a&#39;, x_b&#39;)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="990" y="225" width="80" height="30" as="geometry" />
+          <mxGeometry x="1030" y="230" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="luFJp2Oq7keXj1tNvS5Z-18" value="&lt;b&gt;URAM&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#77befc;" parent="1" vertex="1">
           <mxGeometry x="1010" y="80.5" width="84" height="40" as="geometry" />
