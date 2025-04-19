@@ -178,10 +178,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-9" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="820.63" y="810" width="20" height="20" as="geometry" />
+          <mxGeometry x="750" y="710" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="591" y="630" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xFMm-Gr_Sllog6HZWx35-11" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="710" y="750" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xFMm-Gr_Sllog6HZWx35-12" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="770" y="730" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
