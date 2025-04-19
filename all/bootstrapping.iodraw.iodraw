@@ -225,8 +225,8 @@
         <mxCell id="xFMm-Gr_Sllog6HZWx35-27" value="&lt;b&gt;Ye(TFHE)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="757" y="810" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xFMm-Gr_Sllog6HZWx35-28" value="&lt;b&gt;Utility/Accuracy/&lt;/b&gt;&lt;div&gt;&lt;b&gt;Development Cost&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="610" width="110" height="30" as="geometry" />
+        <mxCell id="xFMm-Gr_Sllog6HZWx35-28" value="&lt;b&gt;Utility/Accuracy/&lt;/b&gt;&lt;div&gt;&lt;b&gt;Development Cost&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="520" width="110" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
