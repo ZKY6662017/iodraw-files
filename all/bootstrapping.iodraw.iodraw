@@ -255,6 +255,12 @@
         <mxCell id="E9L-HCrgdLpSqyCx8PGL-4" value="&lt;b&gt;ARK(CKKS)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="661.26" y="750" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="E9L-HCrgdLpSqyCx8PGL-5" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#6161FF;strokeColor=#6161FF;" vertex="1" parent="1">
+          <mxGeometry x="602.53" y="785" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E9L-HCrgdLpSqyCx8PGL-6" value="&lt;b&gt;ARK(CKKS)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="582.53" y="765" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
