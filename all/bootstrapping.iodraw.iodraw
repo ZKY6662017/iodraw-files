@@ -79,7 +79,7 @@
         <mxCell id="E9L-HCrgdLpSqyCx8PGL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E9L-HCrgdLpSqyCx8PGL-10" target="luFJp2Oq7keXj1tNvS5Z-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E9L-HCrgdLpSqyCx8PGL-10" value="&lt;b&gt;URAM&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;bank&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#77befc;" vertex="1" parent="1">
+        <mxCell id="E9L-HCrgdLpSqyCx8PGL-10" value="&lt;b&gt;URAM&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;bank&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fillColor=#77befc;" vertex="1" parent="1">
           <mxGeometry x="627.53" y="130" width="87.47" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E9L-HCrgdLpSqyCx8PGL-11" value="&lt;b&gt;BRAM&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d6e8d5;" vertex="1" parent="1">
