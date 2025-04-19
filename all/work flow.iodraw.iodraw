@@ -585,7 +585,7 @@
         <mxCell id="0gagyYttxAnxGoFzwxPP-6" value="CKKS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontStyle=0;strokeWidth=2;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="403.85" y="366" width="37" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="0gagyYttxAnxGoFzwxPP-7" value="SS" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="0gagyYttxAnxGoFzwxPP-7" value="SS" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=#666666;fillColor=#6e349c;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="421.14000000000004" y="335" width="38" height="15" as="geometry" />
         </mxCell>
         <mxCell id="0gagyYttxAnxGoFzwxPP-8" value="FHEW" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
