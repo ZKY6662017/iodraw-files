@@ -178,52 +178,52 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-9" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#6161FF;strokeColor=#6161FF;" vertex="1" parent="1">
-          <mxGeometry x="636.27" y="690" width="20" height="20" as="geometry" />
+          <mxGeometry x="554.24" y="680" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;strokeWidth=3;fillColor=#FF0000;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="675" y="590" width="20" height="20" as="geometry" />
+          <mxGeometry x="592.97" y="580" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-11" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#6161FF;strokeColor=#6161FF;" vertex="1" parent="1">
-          <mxGeometry x="750" y="620" width="20" height="20" as="geometry" />
+          <mxGeometry x="667.97" y="610" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-12" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#6161FF;strokeColor=#6161FF;" vertex="1" parent="1">
-          <mxGeometry x="835" y="825" width="20" height="20" as="geometry" />
+          <mxGeometry x="752.97" y="815" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-13" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#6161FF;strokeColor=#6161FF;" vertex="1" parent="1">
-          <mxGeometry x="785" y="775" width="20" height="20" as="geometry" />
+          <mxGeometry x="702.97" y="765" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-14" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#6161FF;strokeColor=#6161FF;" vertex="1" parent="1">
-          <mxGeometry x="912" y="805" width="20" height="20" as="geometry" />
+          <mxGeometry x="829.97" y="795" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-15" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#6161FF;strokeColor=#6161FF;" vertex="1" parent="1">
-          <mxGeometry x="730" y="680" width="20" height="20" as="geometry" />
+          <mxGeometry x="647.97" y="670" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-16" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#6161FF;strokeColor=#6161FF;" vertex="1" parent="1">
-          <mxGeometry x="594.04" y="640" width="20" height="20" as="geometry" />
+          <mxGeometry x="534.24" y="640" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-18" value="&lt;b&gt;DRS(Hybrid)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="695" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="612.97" y="550" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-19" value="&lt;b&gt;CraterLake(CKKS)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="592.77" y="610" width="60" height="30" as="geometry" />
+          <mxGeometry x="532.97" y="610" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-20" value="&lt;b&gt;HEAP(Hybrid)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="646.27" y="670" width="60" height="30" as="geometry" />
+          <mxGeometry x="564.24" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-22" value="&lt;b&gt;FAB(CKKS)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="600" width="60" height="20" as="geometry" />
+          <mxGeometry x="647.97" y="590" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-23" value="&lt;b&gt;F1(CKKS)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="752" y="670" width="60" height="30" as="geometry" />
+          <mxGeometry x="669.97" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-25" value="&lt;b&gt;HEAX(CKKS)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="755" width="60" height="30" as="geometry" />
+          <mxGeometry x="717.97" y="745" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-26" value="&lt;b&gt;TFHE-cuFHE(TFHE)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="880" y="785" width="130" height="30" as="geometry" />
+          <mxGeometry x="797.97" y="775" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-27" value="&lt;b&gt;Ye(TFHE)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="842" y="805" width="70" height="30" as="geometry" />
+          <mxGeometry x="759.97" y="795" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-28" value="&lt;b&gt;Utility/Accuracy/&lt;/b&gt;&lt;div&gt;&lt;b&gt;Development Cost&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="525" width="50" height="120" as="geometry" />
