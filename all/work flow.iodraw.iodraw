@@ -636,8 +636,11 @@
             <mxPoint x="449.70000000000005" y="383" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0gagyYttxAnxGoFzwxPP-18" value="DRS" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#FF9933;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="224.75" y="325" width="86.25" height="54" as="geometry" />
+        <mxCell id="0gagyYttxAnxGoFzwxPP-18" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#FF9933;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="152" y="327" width="86.25" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="0gagyYttxAnxGoFzwxPP-19" value="DRS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="271" y="314" width="60" height="13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
