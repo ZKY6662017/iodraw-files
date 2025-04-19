@@ -158,7 +158,7 @@
           <mxGeometry x="782.51" y="600" width="32.97" height="145" as="geometry" />
         </mxCell>
         <mxCell id="Jea2CD18wEAFstAz1FlE-49" value="&lt;b&gt;HW Secure Computing Complexity&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="732.25" y="762.5" width="133.5" height="30" as="geometry" />
+          <mxGeometry x="742.25" y="765" width="133.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jea2CD18wEAFstAz1FlE-50" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="777.38" y="732.5" width="32.97" height="145" as="geometry" />
