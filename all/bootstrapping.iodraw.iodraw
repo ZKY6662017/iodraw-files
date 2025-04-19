@@ -237,8 +237,8 @@
         <mxCell id="xFMm-Gr_Sllog6HZWx35-32" value="&lt;b&gt;HW secure computing for Large-Scale System&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="789.97" y="560" width="120.03" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xFMm-Gr_Sllog6HZWx35-33" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;" vertex="1" parent="1">
-          <mxGeometry x="762.97" y="555" width="32.97" height="145" as="geometry" />
+        <mxCell id="xFMm-Gr_Sllog6HZWx35-33" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="772.97" y="617.5" width="32.97" height="145" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
