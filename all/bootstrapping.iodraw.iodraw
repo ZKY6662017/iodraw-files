@@ -187,13 +187,16 @@
           <mxGeometry x="710" y="750" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-12" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="790" y="780" width="20" height="20" as="geometry" />
+          <mxGeometry x="807" y="810" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-13" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="750" y="810" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-14" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="800" y="790" width="20" height="20" as="geometry" />
+          <mxGeometry x="827" y="750" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xFMm-Gr_Sllog6HZWx35-15" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="817" y="820" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
