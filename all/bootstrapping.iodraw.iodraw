@@ -174,7 +174,7 @@
         <mxCell id="xFMm-Gr_Sllog6HZWx35-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="920" as="sourcePoint" />
-            <mxPoint x="480.63" y="520" as="targetPoint" />
+            <mxPoint x="480" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-9" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#6161FF;strokeColor=#6161FF;" vertex="1" parent="1">
@@ -226,7 +226,7 @@
           <mxGeometry x="713.96" y="840" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-28" value="&lt;b&gt;Utility/Accuracy /&lt;/b&gt;&lt;div&gt;&lt;b&gt;Development Cost&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="525" width="50" height="120" as="geometry" />
+          <mxGeometry x="430" y="595" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-29" value="&lt;b&gt;Run-time Performance /&lt;/b&gt;&lt;div&gt;&lt;b&gt;Efficiency&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="724.53" y="920" width="140" height="30" as="geometry" />
