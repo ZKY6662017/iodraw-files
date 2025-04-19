@@ -126,12 +126,13 @@
         <mxCell id="luFJp2Oq7keXj1tNvS5Z-22" value="&lt;b&gt;BRAM&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d6e8d5;" parent="1" vertex="1">
           <mxGeometry x="761.99" y="305.38" width="84" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="luFJp2Oq7keXj1tNvS5Z-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="luFJp2Oq7keXj1tNvS5Z-8" target="luFJp2Oq7keXj1tNvS5Z-4" edge="1">
+        <mxCell id="luFJp2Oq7keXj1tNvS5Z-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="luFJp2Oq7keXj1tNvS5Z-8" target="luFJp2Oq7keXj1tNvS5Z-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="800" y="220.02857142857135" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="790" y="220" />
               <mxPoint x="790" y="265" />
+              <mxPoint x="782" y="265" />
             </Array>
           </mxGeometry>
         </mxCell>
