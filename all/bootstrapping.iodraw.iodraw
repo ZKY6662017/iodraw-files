@@ -229,7 +229,7 @@
           <mxGeometry x="460" y="575" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-29" value="&lt;b&gt;Speed /&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Efficiency&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="755.21" y="920" width="123.5" height="30" as="geometry" />
+          <mxGeometry x="755.21" y="920" width="123.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-31" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="699.5" y="595" width="32.97" height="145" as="geometry" />
@@ -240,7 +240,7 @@
         <mxCell id="xFMm-Gr_Sllog6HZWx35-33" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="788.52" y="695" width="32.97" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="xFMm-Gr_Sllog6HZWx35-34" value="&lt;b&gt;Formal Security Verification for Large-ScalDesign&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xFMm-Gr_Sllog6HZWx35-34" value="&lt;b&gt;Formal Security Verification for Large-Scal Design&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="744.5" y="715" width="120.03" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-35" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;rotation=-50;" vertex="1" parent="1">
