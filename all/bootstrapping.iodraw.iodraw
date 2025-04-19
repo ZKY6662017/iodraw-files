@@ -234,14 +234,14 @@
         <mxCell id="xFMm-Gr_Sllog6HZWx35-31" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="699.5" y="595" width="32.97" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="xFMm-Gr_Sllog6HZWx35-32" value="&lt;b&gt;HW Secure Computing Complexity&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="682.21" y="650" width="133.5" height="30" as="geometry" />
+        <mxCell id="xFMm-Gr_Sllog6HZWx35-32" value="&lt;b&gt;HW Secure Computing Complexity&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="675" width="133.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-33" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="793.59" y="715" width="32.97" height="145" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-34" value="&lt;b&gt;HW Homomorphic Model Perofrmance&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="767" y="735" width="120.03" height="30" as="geometry" />
+          <mxGeometry x="750.06" y="740" width="120.03" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-35" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;rotation=-50;" vertex="1" parent="1">
           <mxGeometry x="560.8299999999999" y="752.5" width="32.97" height="145" as="geometry" />
