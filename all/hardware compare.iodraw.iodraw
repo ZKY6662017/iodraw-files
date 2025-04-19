@@ -149,7 +149,7 @@
           <mxGeometry x="713.96" y="840" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jea2CD18wEAFstAz1FlE-46" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Utility / Accuracy&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="460" y="575" width="20" height="120" as="geometry" />
+          <mxGeometry x="460" y="585" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Jea2CD18wEAFstAz1FlE-47" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Speed /&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;Efficiency&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="755.21" y="920" width="123.5" height="20" as="geometry" />
