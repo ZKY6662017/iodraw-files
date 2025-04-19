@@ -159,6 +159,9 @@
             <mxPoint x="811.99" y="295.53" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xFMm-Gr_Sllog6HZWx35-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="xFMm-Gr_Sllog6HZWx35-3" target="luFJp2Oq7keXj1tNvS5Z-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-3" value="&lt;b&gt;BRAM&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d6e8d5;" vertex="1" parent="1">
           <mxGeometry x="920.83" y="275.77" width="84" height="40" as="geometry" />
         </mxCell>
