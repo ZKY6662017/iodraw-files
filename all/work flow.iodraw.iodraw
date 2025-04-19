@@ -595,10 +595,10 @@
           <mxGeometry x="319" y="366" width="37" height="15" as="geometry" />
         </mxCell>
         <mxCell id="0gagyYttxAnxGoFzwxPP-10" value="SS" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=#000000;fillColor=#f5f5f5;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="336.29" y="335" width="38" height="15" as="geometry" />
+          <mxGeometry x="339.25" y="351" width="38" height="15" as="geometry" />
         </mxCell>
         <mxCell id="0gagyYttxAnxGoFzwxPP-11" value="FHEW" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=#000000;fillColor=#6e349c;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="362.29" y="366" width="37" height="15" as="geometry" />
+          <mxGeometry x="356.25" y="366" width="37" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
