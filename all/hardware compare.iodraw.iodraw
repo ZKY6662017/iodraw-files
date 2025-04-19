@@ -70,19 +70,19 @@
         <mxCell id="Jea2CD18wEAFstAz1FlE-20" value="&lt;b&gt;Speed /&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Efficiency&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="886.0500000000001" y="565" width="108.04" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Jea2CD18wEAFstAz1FlE-21" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;" vertex="1" parent="1">
+        <mxCell id="Jea2CD18wEAFstAz1FlE-21" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="829.5" y="240" width="32.97" height="145" as="geometry" />
         </mxCell>
         <mxCell id="Jea2CD18wEAFstAz1FlE-22" value="&lt;b&gt;HW Secure Computing Complexity&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="878.46" y="390" width="133.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jea2CD18wEAFstAz1FlE-23" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="Jea2CD18wEAFstAz1FlE-23" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;rotation=-90;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="923.59" y="360" width="32.97" height="145" as="geometry" />
         </mxCell>
         <mxCell id="Jea2CD18wEAFstAz1FlE-24" value="&lt;b&gt;HW Homomorphic Model Perofrmance&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="818.9499999999999" y="295" width="120.03" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jea2CD18wEAFstAz1FlE-25" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;rotation=-50;" vertex="1" parent="1">
+        <mxCell id="Jea2CD18wEAFstAz1FlE-25" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;rotation=-50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="690.8299999999999" y="397.5" width="32.97" height="145" as="geometry" />
         </mxCell>
         <mxCell id="Jea2CD18wEAFstAz1FlE-26" value="&lt;b&gt;Cryptographic Secure Computing at Scale&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=41;" vertex="1" parent="1">
