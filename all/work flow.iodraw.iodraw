@@ -574,13 +574,13 @@
           <mxGeometry x="430.25" y="454.48" width="29" height="42.48" as="geometry" />
         </mxCell>
         <mxCell id="0gagyYttxAnxGoFzwxPP-1" value="CKKS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#943e3b;fontStyle=0;strokeWidth=2;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="247" y="355" width="37" height="15" as="geometry" />
+          <mxGeometry x="232.71" y="366" width="37" height="15" as="geometry" />
         </mxCell>
         <mxCell id="0gagyYttxAnxGoFzwxPP-2" value="SS" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=default;fillColor=#4c73b2;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="268.5" y="328" width="38" height="15" as="geometry" />
         </mxCell>
         <mxCell id="0gagyYttxAnxGoFzwxPP-3" value="FHEW" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=default;fillColor=#6f329e;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="296.25" y="355" width="37" height="15" as="geometry" />
+          <mxGeometry x="276" y="366" width="37" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
