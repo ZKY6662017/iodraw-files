@@ -88,13 +88,13 @@
         <mxCell id="Jea2CD18wEAFstAz1FlE-26" value="&lt;b&gt;Cryptographic Secure Computing at Scale&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=41;" vertex="1" parent="1">
           <mxGeometry x="618.46" y="485" width="135.78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jea2CD18wEAFstAz1FlE-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Jea2CD18wEAFstAz1FlE-28" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="920" as="sourcePoint" />
             <mxPoint x="880" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jea2CD18wEAFstAz1FlE-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Jea2CD18wEAFstAz1FlE-29" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="920" as="sourcePoint" />
             <mxPoint x="480" y="580" as="targetPoint" />
