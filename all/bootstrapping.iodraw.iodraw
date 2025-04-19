@@ -191,7 +191,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E9L-HCrgdLpSqyCx8PGL-20" value="&lt;b&gt;URAM&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#77befc;" vertex="1" parent="1">
-          <mxGeometry x="960" y="230" width="53.74" height="50" as="geometry" />
+          <mxGeometry x="976.26" y="229.61" width="53.74" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
