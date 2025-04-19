@@ -177,11 +177,11 @@
             <mxPoint x="460" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xFMm-Gr_Sllog6HZWx35-8" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="810" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="790" y="850" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xFMm-Gr_Sllog6HZWx35-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="630" y="830" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
