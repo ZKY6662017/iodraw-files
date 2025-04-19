@@ -244,10 +244,10 @@
           <mxGeometry x="797.97" y="665" width="120.03" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-35" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;rotation=-50;" vertex="1" parent="1">
-          <mxGeometry x="609.56" y="717.5" width="32.97" height="145" as="geometry" />
+          <mxGeometry x="560.8299999999999" y="752.5" width="32.97" height="145" as="geometry" />
         </mxCell>
         <mxCell id="xFMm-Gr_Sllog6HZWx35-36" value="&lt;b&gt;Cryptographic Secure Computing at Scale&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=41;" vertex="1" parent="1">
-          <mxGeometry x="537.19" y="805" width="135.78" height="30" as="geometry" />
+          <mxGeometry x="488.46000000000004" y="840" width="135.78" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
