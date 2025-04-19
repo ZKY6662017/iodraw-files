@@ -573,8 +573,8 @@
         <mxCell id="PwuB7kymhnKzytdPFPTC-127" value="SS" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#c3dae3;" parent="1" vertex="1">
           <mxGeometry x="430.25" y="454.48" width="29" height="42.48" as="geometry" />
         </mxCell>
-        <mxCell id="0gagyYttxAnxGoFzwxPP-1" value="CKKS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#943e3b;fontStyle=0;strokeWidth=2;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="496" y="391" width="44.5" height="15" as="geometry" />
+        <mxCell id="0gagyYttxAnxGoFzwxPP-1" value="CK&lt;div&gt;KS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#943e3b;fontStyle=0;strokeWidth=2;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="496" y="378" width="44.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="0gagyYttxAnxGoFzwxPP-2" value="SS" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=default;fillColor=#4c73b2;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="585.53" y="391" width="38" height="15" as="geometry" />
