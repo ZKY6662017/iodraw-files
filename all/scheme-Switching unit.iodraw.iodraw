@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="300" width="260" height="110" as="geometry" />
+          <mxGeometry x="798.53" y="130.5" width="260" height="110" as="geometry" />
         </mxCell>
         <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-45" value="ModReduce/ModSwitch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;gradientColor=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="802.53" y="193" width="140.92" height="27.5" as="geometry" />
@@ -135,6 +135,12 @@
         </mxCell>
         <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-128" value="&lt;b&gt;URAM&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#84bdfa;" vertex="1" parent="1">
           <mxGeometry x="922.53" y="140" width="84" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-129" value="&lt;b&gt;BRAM&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d6e8d5;" vertex="1" parent="1">
+          <mxGeometry x="798.53" y="290.5" width="84" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-130" value="&lt;b&gt;URAM&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#84bdfa;" vertex="1" parent="1">
+          <mxGeometry x="918.53" y="290.5" width="84" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
