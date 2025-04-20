@@ -29,7 +29,7 @@
           <mxGeometry x="882.53" y="550" width="80" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-86" value="Add/Sub" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;gradientColor=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1140" y="550" width="80" height="27.5" as="geometry" />
+          <mxGeometry x="912.53" y="620" width="80" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-87" value="&lt;b&gt;BRAM&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d6e8d5;" vertex="1" parent="1">
           <mxGeometry x="430" y="193" width="84" height="40" as="geometry" />
@@ -107,7 +107,13 @@
           <mxGeometry x="992.53" y="580" width="80" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-113" value="Tau" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;gradientColor=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="842.53" y="590" width="80" height="27.5" as="geometry" />
+          <mxGeometry x="832.53" y="620" width="80" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-116" value="Add/Sub" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;gradientColor=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="922.53" y="630" width="80" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-117" value="Tau" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;gradientColor=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="842.53" y="630" width="80" height="27.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
