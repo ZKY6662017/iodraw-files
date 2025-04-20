@@ -157,7 +157,7 @@
         <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-140" value="&lt;b&gt;URAM&lt;/b&gt;&lt;div&gt;&lt;b&gt;bank&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#84bdfa;" vertex="1" parent="1">
           <mxGeometry x="963.4499999999999" y="275" width="84" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-142" value="&lt;b&gt;LWEToRLWE&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Module&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;fillColor=#b0e3e6;" vertex="1" parent="1">
+        <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-142" value="&lt;b&gt;EvalTrace&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;fillColor=#b0e3e6;" vertex="1" parent="1">
           <mxGeometry x="835.49" y="340" width="135" height="40" as="geometry" />
         </mxCell>
       </root>
