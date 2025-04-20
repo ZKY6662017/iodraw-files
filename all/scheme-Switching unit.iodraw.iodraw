@@ -154,10 +154,10 @@
         <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-82" value="KeySwitch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="880" y="480" width="80" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-83" value="ExtractLWE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-83" value="ExtractLWE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="960" y="480" width="80" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-84" value="Tau" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-84" value="Tau" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="802.53" y="550" width="80" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-85" value="KeySwitch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;gradientColor=none;" vertex="1" parent="1">
