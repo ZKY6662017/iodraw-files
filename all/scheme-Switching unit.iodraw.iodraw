@@ -76,6 +76,9 @@
         <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-102" value="ExtractLWE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;gradientColor=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1133.45" y="258" width="80" height="27.5" as="geometry" />
         </mxCell>
+        <mxCell id="2MoC1QZ6Rokx5Ep_lZ_j-103" value="KeySwitch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d5e7;gradientColor=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="892.53" y="560" width="80" height="27.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
