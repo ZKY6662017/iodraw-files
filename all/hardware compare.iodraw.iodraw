@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="eBDpPoVyK0o12XTarrDO">
-    <mxGraphModel dx="1834" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="903" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,7 +73,7 @@
         <mxCell id="Jea2CD18wEAFstAz1FlE-48" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;" parent="1" vertex="1">
           <mxGeometry x="782.51" y="600" width="32.97" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="Jea2CD18wEAFstAz1FlE-49" value="&lt;b&gt;HW Secure Computing&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Resource Efficient&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+        <mxCell id="Jea2CD18wEAFstAz1FlE-49" value="&lt;b&gt;HW Secure Computing&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Resource Efficiency&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="720.96" y="759" width="138.04" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jea2CD18wEAFstAz1FlE-50" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.44557403855097466;arrowSize=0.32356283278692216;fillColor=#67AB9F;rotation=90;" parent="1" vertex="1">
