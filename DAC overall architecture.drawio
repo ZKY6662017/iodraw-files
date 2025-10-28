@@ -170,16 +170,16 @@
           <mxGeometry x="500" y="189" width="56" height="98.27" as="geometry" />
         </mxCell>
         <mxCell id="qf1BcLg8_Bt7gjTazsa1-59" value="Memory &amp;amp; Physical FPGA" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=#000000;fillColor=#3D6658;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="691" y="298" width="151" height="15" as="geometry" />
+          <mxGeometry x="680" y="298" width="151" height="15" as="geometry" />
         </mxCell>
         <mxCell id="qf1BcLg8_Bt7gjTazsa1-60" value="Basic Unit Layer" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=#000000;fillColor=#8E4B43;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="691" y="247" width="151" height="15" as="geometry" />
+          <mxGeometry x="680" y="247" width="151" height="15" as="geometry" />
         </mxCell>
         <mxCell id="qf1BcLg8_Bt7gjTazsa1-61" value="Fine-Grained Kernel Layer" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=#000000;fillColor=#355389;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="691" y="193" width="151" height="15" as="geometry" />
+          <mxGeometry x="680" y="193" width="151" height="15" as="geometry" />
         </mxCell>
         <mxCell id="qf1BcLg8_Bt7gjTazsa1-64" value="Control &amp;amp; Algorithm Layer" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=#000000;fillColor=#664F97;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="691.75" y="136" width="151" height="15" as="geometry" />
+          <mxGeometry x="680.75" y="136" width="151" height="15" as="geometry" />
         </mxCell>
         <mxCell id="qf1BcLg8_Bt7gjTazsa1-69" value="HBM&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22CKKS%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3Ddefault%3BfillColor%3D%238e413d%3BfontStyle%3D0%3BstrokeWidth%3D2%3BfontColor%3D%23FFFFFF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22332%22%20y%3D%22200%22%20width%3D%2251.5%22%20height%3D%2215%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#A9D5C6;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="842" y="298" width="51.5" height="15" as="geometry" />
