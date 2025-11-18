@@ -954,7 +954,7 @@
         <mxCell id="oTZts0sZU1lmoVdmrM2d-1677" value="TILES_REDUCE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2C987;strokeWidth=2;glass=0;shadow=0;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="144.95999999999992" y="965.3900000000002" width="98.82" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="oTZts0sZU1lmoVdmrM2d-1678" value="ISA Emitter &amp;amp; Tile clusters" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=default;fillColor=#46766A;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="oTZts0sZU1lmoVdmrM2d-1678" value="ISA &amp;amp; Tile Controller" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=default;fillColor=#46766A;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="58.86" y="892.93" width="150.69" height="15" as="geometry" />
         </mxCell>
         <mxCell id="oTZts0sZU1lmoVdmrM2d-1680" value="Tile" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=default;fillColor=#46766A;fontColor=#FFFFFF;" parent="1" vertex="1">
