@@ -957,7 +957,7 @@
         <mxCell id="oTZts0sZU1lmoVdmrM2d-1678" value="ISA &amp;amp; Tile Controller" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=default;fillColor=#46766A;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="58.86" y="892.93" width="150.69" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="oTZts0sZU1lmoVdmrM2d-1680" value="Tile" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=default;fillColor=#E1D5E7;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="oTZts0sZU1lmoVdmrM2d-1680" value="Tile" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=default;fillColor=#46766A;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="912.3500000000001" y="763.8100000000001" width="140" height="15" as="geometry" />
         </mxCell>
         <mxCell id="oTZts0sZU1lmoVdmrM2d-1681" value="ModMul" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5292C0;strokeWidth=2;glass=0;shadow=0;" parent="1" vertex="1">
