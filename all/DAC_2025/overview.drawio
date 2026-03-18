@@ -445,6 +445,9 @@
         <mxCell id="ZctZKYSSffz6_poLH_lZ-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=0;strokeWidth=2;" value="BALANCE-ALLOC&amp;nbsp;&lt;div&gt;(Tile &amp;amp; Memory Allocation)&lt;/div&gt;" vertex="1">
           <mxGeometry height="50.5" width="153.62" x="173.13" y="509" as="geometry" />
         </mxCell>
+        <mxCell id="ZctZKYSSffz6_poLH_lZ-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#cfe2f1, #39454e);strokeColor=#23445d;arcSize=9;" value="" vertex="1">
+          <mxGeometry height="167" width="212" x="880.25" y="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
