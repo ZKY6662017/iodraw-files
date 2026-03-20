@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4">
   <diagram name="Page-1" id="o3sNlfRjngqb5-FlWbuL">
-    <mxGraphModel dx="3226" dy="1266" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="627" dy="246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1079,16 +1079,16 @@
           <mxGeometry height="12.5" width="482" x="1243" y="777.09" as="geometry" />
         </mxCell>
         <mxCell id="BcQgiRvKxNEFa14vwixZ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#38435B,#657284);fillColor=light-dark(#9abddb, #1d293b);fontStyle=0;strokeWidth=2;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Sequencer&lt;/span&gt;" vertex="1">
-          <mxGeometry height="24.21" width="134" x="1354.5" y="658.0500000000001" as="geometry" />
+          <mxGeometry height="24.21" width="134" x="1370.5" y="658.0500000000001" as="geometry" />
         </mxCell>
         <mxCell id="BcQgiRvKxNEFa14vwixZ-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#38435B,#657284);fillColor=light-dark(#9abddb, #1d293b);fontStyle=0;strokeWidth=2;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Opcode Decoder&lt;/span&gt;" vertex="1">
-          <mxGeometry height="35.68" width="69" x="1354.5" y="690.5800000000002" as="geometry" />
+          <mxGeometry height="35.68" width="69" x="1370.5" y="690.5800000000002" as="geometry" />
         </mxCell>
         <mxCell id="BcQgiRvKxNEFa14vwixZ-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#38435B,#657284);fillColor=light-dark(#9abddb, #1d293b);fontStyle=0;strokeWidth=2;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Address Generator&lt;/span&gt;" vertex="1">
-          <mxGeometry height="35.68" width="69" x="1427.5" y="690.5800000000002" as="geometry" />
+          <mxGeometry height="35.68" width="69" x="1443.5" y="690.5800000000002" as="geometry" />
         </mxCell>
         <mxCell id="BcQgiRvKxNEFa14vwixZ-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#38435B,#657284);fillColor=light-dark(#9abddb, #1d293b);fontStyle=0;strokeWidth=2;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Intra-tile Crossbar (XBAR) Controller&lt;/span&gt;" vertex="1">
-          <mxGeometry height="71.29" width="101" x="1504.5" y="657.07" as="geometry" />
+          <mxGeometry height="71.29" width="101" x="1520.5" y="657.07" as="geometry" />
         </mxCell>
         <mxCell id="BcQgiRvKxNEFa14vwixZ-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#38435B,#657284);fillColor=light-dark(#9abddb, #1d293b);fontStyle=0;strokeWidth=2;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Instruction Memory&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;(256-entry)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="71.29" width="101" x="1248" y="656.09" as="geometry" />
@@ -1291,6 +1291,12 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1" y="31" as="sourcePoint" />
             <mxPoint x="11.970000000000027" y="30.720000000000027" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BcQgiRvKxNEFa14vwixZ-121" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;startSize=0;endSize=6;sourcePerimeterSpacing=0;jumpSize=6;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1350" y="670" as="sourcePoint" />
+            <mxPoint x="1370.5" y="670.02" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
