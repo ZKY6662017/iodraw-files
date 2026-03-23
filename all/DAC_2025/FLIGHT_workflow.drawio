@@ -1521,7 +1521,7 @@
         <mxCell id="sFdINI3WNnAruAnrY_-O-57" parent="sFdINI3WNnAruAnrY_-O-53" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#cfeede, #36210a);strokeColor=light-dark(#3d542e, #cdb681);strokeWidth=2;arcSize=7;fontSize=15;" value="Banked BRAM&lt;div&gt;(Multiple Banks)&lt;/div&gt;" vertex="1">
           <mxGeometry height="54" width="115" y="15" as="geometry" />
         </mxCell>
-        <mxCell id="sFdINI3WNnAruAnrY_-O-79" edge="1" parent="1" source="sFdINI3WNnAruAnrY_-O-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" target="Zf3Rckr1R0xSCmdB6Swc-227">
+        <mxCell id="sFdINI3WNnAruAnrY_-O-79" edge="1" parent="1" source="sFdINI3WNnAruAnrY_-O-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;startArrow=classic;startFill=1;" target="Zf3Rckr1R0xSCmdB6Swc-227">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sFdINI3WNnAruAnrY_-O-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#cfeede, #36210a);strokeColor=light-dark(#3d542e, #cdb681);strokeWidth=2;arcSize=7;fontSize=15;" value="Banked URAM" vertex="1">
