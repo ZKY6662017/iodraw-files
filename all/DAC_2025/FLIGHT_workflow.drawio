@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
   <diagram name="Page-1" id="1pJNZdkx4wAd90L8lSOi">
-    <mxGraphModel dx="2274" dy="963" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1058" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="Zf3Rckr1R0xSCmdB6Swc-148" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" value="" vertex="1">
           <mxGeometry height="12.5" width="950" x="2053" y="755" as="geometry" />
         </mxCell>
-        <mxCell id="Zf3Rckr1R0xSCmdB6Swc-149" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;(c) Single Tile Reconfiguration&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="Zf3Rckr1R0xSCmdB6Swc-149" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;(c) Tile Reconfiguration&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="589.5" x="2233.25" y="725" as="geometry" />
         </mxCell>
         <mxCell id="Zf3Rckr1R0xSCmdB6Swc-150" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=-90;" value="" vertex="1">
