@@ -943,18 +943,6 @@
         <mxCell id="rQlt0pXlCCbhaT4uo-Jt-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#38435B,#657284);fillColor=light-dark(#ededed, #1d293b);fontStyle=1;strokeWidth=2;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Programmable Bootstrapping&lt;/span&gt;" vertex="1">
           <mxGeometry height="71.29" width="110" x="1087" y="96.8" as="geometry" />
         </mxCell>
-        <mxCell id="rQlt0pXlCCbhaT4uo-Jt-476" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="150.45999999999998" width="189.43" x="61" y="446" as="geometry" />
-        </mxCell>
-        <mxCell id="rQlt0pXlCCbhaT4uo-Jt-472" parent="rQlt0pXlCCbhaT4uo-Jt-476" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#38435B,#657284);fillColor=none;fontStyle=0;strokeWidth=2;flipV=0;legacyAnchorPoints=0;flipH=0;arcSize=9;" value="" vertex="1">
-          <mxGeometry height="150.46" width="189.43" as="geometry" />
-        </mxCell>
-        <mxCell id="rQlt0pXlCCbhaT4uo-Jt-473" parent="rQlt0pXlCCbhaT4uo-Jt-476" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=0" value="&lt;font&gt;&lt;span&gt;$$T_{boundary} = \sum_{i=2}^{5} T(S_i)$$&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="69" width="135" x="27.22000000000002" y="67.68" as="geometry" />
-        </mxCell>
-        <mxCell id="rQlt0pXlCCbhaT4uo-Jt-474" parent="rQlt0pXlCCbhaT4uo-Jt-476" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;b&gt;Stage-level breakdown&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="139" x="25.220000000000006" y="24.05000000000001" as="geometry" />
-        </mxCell>
         <mxCell id="rQlt0pXlCCbhaT4uo-Jt-492" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#38435B,#657284);fillColor=light-dark(#bababa, #1d293b);fontStyle=1;strokeWidth=2;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Slot Decode/&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Extraction&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="71.29" width="101" x="517" y="96.8" as="geometry" />
         </mxCell>
