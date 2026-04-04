@@ -1233,25 +1233,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T0Hn43LEzIL2AeZfXoyd-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3D542E;fillColor=light-dark(#b5e1c8, #1f2f1e);fontStyle=0;strokeWidth=2;fontSize=15;" value="HBM Key Streaming" vertex="1">
-          <mxGeometry height="48.59" width="558" x="3701.4300000000003" y="1193" as="geometry" />
-        </mxCell>
-        <mxCell id="T0Hn43LEzIL2AeZfXoyd-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3D542E;fillColor=light-dark(#b5e1c8, #1f2f1e);fontStyle=0;strokeWidth=2;fontSize=15;" value="Fused MAC / Reduction Datapath" vertex="1">
-          <mxGeometry height="48.59" width="752" x="3507.43" y="1276" as="geometry" />
-        </mxCell>
-        <mxCell id="T0Hn43LEzIL2AeZfXoyd-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3D542E;fillColor=light-dark(#b5e1c8, #1f2f1e);fontStyle=0;strokeWidth=2;fontSize=15;" value="Banked On-chip Staging" vertex="1">
-          <mxGeometry height="48.59" width="948" x="3311.43" y="1353" as="geometry" />
-        </mxCell>
-        <mxCell id="T0Hn43LEzIL2AeZfXoyd-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#EDEDED);rotation=-90;" value="" vertex="1">
-          <mxGeometry height="8.547102439024389" width="3.99724089635855" x="4273.307533783784" y="1224.6282352941175" as="geometry" />
-        </mxCell>
-        <mxCell id="T0Hn43LEzIL2AeZfXoyd-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#EDEDED);rotation=-90;" value="" vertex="1">
-          <mxGeometry height="8.547102439024389" width="3.362948179271715" x="4273.307533783784" y="1214.5235294117647" as="geometry" />
-        </mxCell>
-        <mxCell id="T0Hn43LEzIL2AeZfXoyd-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#EDEDED);rotation=-90;" value="" vertex="1">
-          <mxGeometry height="8.547102439024389" width="3.1475280112044874" x="4274.750945945946" y="1204.4188235294118" as="geometry" />
-        </mxCell>
-        <mxCell id="T0Hn43LEzIL2AeZfXoyd-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#EDEDED);rotation=-90;" value="" vertex="1">
-          <mxGeometry height="8.547102439024389" width="3.7100140056022473" x="4273.307533783784" y="1194.3141176470588" as="geometry" />
+          <mxGeometry height="490" width="213" x="4304" y="653" as="geometry" />
         </mxCell>
         <mxCell id="T0Hn43LEzIL2AeZfXoyd-42" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="229.01999999999998" width="164" x="3115" y="652" as="geometry" />
