@@ -76,13 +76,13 @@
         <mxCell id="rQlt0pXlCCbhaT4uo-Jt-1078" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#657284);fillColor=light-dark(#bababa, #1d293b);fontStyle=1;strokeWidth=2;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Repacking&lt;/font&gt;" vertex="1">
           <mxGeometry height="60.99" width="134" x="2556" y="3.8700000000000045" as="geometry" />
         </mxCell>
-        <mxCell id="rQlt0pXlCCbhaT4uo-Jt-1079" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=light-dark(#bbcfc0, #1f2f1e);fontStyle=0;strokeWidth=2;fontSize=15;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;HBM Key Streaming&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="rQlt0pXlCCbhaT4uo-Jt-1079" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=light-dark(#bbcfc0, #1f2f1e);fontStyle=0;strokeWidth=2;fontSize=15;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b style=&quot;&quot;&gt;HBM Key Streaming&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="48.59" width="558" x="2465.99" y="345.39" as="geometry" />
         </mxCell>
-        <mxCell id="rQlt0pXlCCbhaT4uo-Jt-1080" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#a8e0c6, #1f2f1e);fontStyle=0;strokeWidth=2;fontSize=15;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Fused MAC / Reduction Datapath&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="rQlt0pXlCCbhaT4uo-Jt-1080" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#a8e0c6, #1f2f1e);fontStyle=0;strokeWidth=2;fontSize=15;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Fused MAC / Reduction Datapath&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="48.59" width="752" x="2271.99" y="412.61" as="geometry" />
         </mxCell>
-        <mxCell id="rQlt0pXlCCbhaT4uo-Jt-1081" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#aad7d4, #1f2f1e);fontStyle=0;strokeWidth=2;fontSize=15;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Banked On-chip Staging&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="rQlt0pXlCCbhaT4uo-Jt-1081" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#aad7d4, #1f2f1e);fontStyle=0;strokeWidth=2;fontSize=15;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Banked On-chip Staging&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="48.59" width="948" x="2075.99" y="485.98" as="geometry" />
         </mxCell>
         <mxCell id="rQlt0pXlCCbhaT4uo-Jt-1082" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#657284);fillColor=light-dark(#bababa, #1d293b);fontStyle=1;strokeWidth=2;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Decode&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Extraction&lt;/font&gt;&lt;/div&gt;" vertex="1">
