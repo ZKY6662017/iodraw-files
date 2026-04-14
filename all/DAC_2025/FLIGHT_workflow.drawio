@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="1pJNZdkx4wAd90L8lSOi">
-    <mxGraphModel dx="1058" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="342" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -486,7 +486,7 @@
         <mxCell id="Zf3Rckr1R0xSCmdB6Swc-219" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;CKKS Mult&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="185" x="2321" y="789.97" as="geometry" />
         </mxCell>
-        <mxCell id="Zf3Rckr1R0xSCmdB6Swc-220" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;FHEW BPS/Activation Function&lt;/b&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="Zf3Rckr1R0xSCmdB6Swc-220" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;FHEW PBS/&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Activation Function&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="222" x="2544" y="789.97" as="geometry" />
         </mxCell>
         <mxCell id="Zf3Rckr1R0xSCmdB6Swc-223" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=-90;" value="" vertex="1">
