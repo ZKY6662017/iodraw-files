@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="iHMyG-KXr-bHb-KhhuuQ">
-    <mxGraphModel dx="1397" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2023" dy="792" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -212,7 +212,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1hZQ0WpROAbKIeoVK0r5-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;AXI&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="40.84" x="619.16" y="514.25" as="geometry" />
+          <mxGeometry height="30" width="40.84" x="625.43" y="514.38" as="geometry" />
         </mxCell>
         <mxCell id="1hZQ0WpROAbKIeoVK0r5-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;strokeColor=default;fillColor=#46766A;fontColor=#FFFFFF;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Adaptive Kuramoto Core&lt;/font&gt;" vertex="1">
           <mxGeometry height="32" width="795" x="675.4300000000001" y="320" as="geometry" />
