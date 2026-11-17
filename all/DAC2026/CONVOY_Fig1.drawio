@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="suaC38Sf_El81mKQkW6I">
-    <mxGraphModel dx="2625" dy="1925" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="880" math="0" shadow="0">
+    <mxGraphModel dx="2934" dy="1149" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="880" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" value="Background &amp; zoom links" />
@@ -1206,10 +1206,10 @@
           <mxGeometry height="114" width="186" x="2362" y="702" as="geometry" />
         </mxCell>
         <mxCell id="titles" parent="0" value="Figure titles" />
-        <mxCell id="a-title" parent="titles" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#17242E;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family:Arial;font-size:33px;line-height:38.94px;font-weight:700;color:#17242E;white-space:nowrap&quot;&gt;(a) Batched unified FHE computation&lt;/div&gt;" vertex="1">
+        <mxCell id="a-title" parent="titles" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#17242E;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family: Arial; font-size: 33px; line-height: 38.94px; font-weight: 700; color: rgb(23, 36, 46); white-space: nowrap;&quot;&gt;(a) Batched Unified FHE Scheme&lt;/div&gt;" vertex="1">
           <mxGeometry height="45" width="1270" x="20" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="b-title" parent="titles" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#17242E;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family:Arial;font-size:33px;line-height:38.94px;font-weight:700;color:#17242E;white-space:nowrap&quot;&gt;(b) Hardware architecture (System → CU → PE)&lt;/div&gt;" vertex="1">
+        <mxCell id="b-title" parent="titles" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#17242E;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family: Arial; font-size: 33px; line-height: 38.94px; font-weight: 700; color: rgb(23, 36, 46); white-space: nowrap;&quot;&gt;(b) Hardware architecture&lt;/div&gt;" vertex="1">
           <mxGeometry height="45" width="1260" x="1320" y="10" as="geometry" />
         </mxCell>
       </root>
