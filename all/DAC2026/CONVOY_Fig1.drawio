@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="suaC38Sf_El81mKQkW6I">
-    <mxGraphModel dx="2934" dy="1149" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="880" math="0" shadow="0">
+    <mxGraphModel dx="2934" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2600" pageHeight="880" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" value="Background &amp; zoom links" />
         <mxCell id="zoom-cu" parent="1" style="shape=stencil(jZHRDoMgDEW/hsclBrbonp37D8RuEhEMoM59/SB1m5Is2VvP7W1zC4SVruUDEJpp3gNhF0Lp05j+IMZQBXlGjRWILeIpp8jcDSA8ihO3ktcKsOO8NR3MsvHrjNQtWOljl1WElTUX3d2aUTfIA4/OWPVmiokeOJfhvmUNQnNkQq/oVlJv3O+gy274P/Pnqh/2fZJjcU7cQhkHWyEU36sCpCffjIUdS6Xw3ZItqTFI+G+segE=);fillColor=#BED8EB;strokeColor=#2D759C;strokeWidth=1.5;fillOpacity=38;dashed=1;dashPattern=5 4;" vertex="1">
           <mxGeometry height="572" width="38" x="1732" y="68" as="geometry" />
         </mxCell>
-        <mxCell id="zoom-pe" parent="1" style="shape=stencil(pZLfDoIgFIefhss2g5bz2uw9UE/JRHCAmj19sONM2Wpt3fH9+A5/DhCW24b3QGiieAeEXQilT627Q8iojyfMjqczcoOcZgkytz1UDsORG8FLuVRaZ3QLk6jdUiNUA0a4MMsKwvKSV+3d6EHVyD0PZhh1egxHemDdstOMxAIEJvSKthRqY68nnXfVP9o0yb77f+lr1z7o0U3TNLIrqS1sAz94d81D3NKbNrBjISW+S7RKLPoIPwYrXg==);fillColor=#F8D6AA;strokeColor=#A9672E;strokeWidth=1.5;fillOpacity=38;dashed=1;dashPattern=5 4;" vertex="1">
-          <mxGeometry height="790" width="146" x="1854" y="68" as="geometry" />
-        </mxCell>
         <mxCell id="zoom-fboot" parent="1" style="shape=stencil(lZHRDoIwDEW/Zo8msCXgO+J/DCiyMFayTVC/3mEXBRJjfOu5ve12NyYK18kRGE+MHICJE+P8gTgc2grRBwidmeSU5wkJXRTSI7F0I9SexElaJSsN1HHeYg+zanycUaYDq16LRclEUcm6v1i8moZ4lItzqQaclmvdaC7L4tl34kiMn8mtlVm5Uy6yv+z5dvs72ZeBX+5ao4O1EIpPsgD72C1a2LDSmt5ut2VvDBJ9oCif);fillColor=#F6DFAD;strokeColor=#C59B59;strokeWidth=1.5;fillOpacity=38;" vertex="1">
           <mxGeometry height="118" width="1270" x="20" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="zoom-pe" parent="1" style="shape=stencil(pZLfDoIgFIefhss2g5bz2uw9UE/JRHCAmj19sONM2Wpt3fH9+A5/DhCW24b3QGiieAeEXQilT627Q8iojyfMjqczcoOcZgkytz1UDsORG8FLuVRaZ3QLk6jdUiNUA0a4MMsKwvKSV+3d6EHVyD0PZhh1egxHemDdstOMxAIEJvSKthRqY68nnXfVP9o0yb77f+lr1z7o0U3TNLIrqS1sAz94d81D3NKbNrBjISW+S7RKLPoIPwYrXg==);fillColor=default;strokeColor=#A9672E;strokeWidth=1.5;fillOpacity=38;dashed=1;dashPattern=5 4;" vertex="1">
+          <mxGeometry height="790" width="146" x="1847" y="78" as="geometry" />
         </mxCell>
         <mxCell id="workflow" parent="0" value="(a) Unified FHE workflow" />
         <mxCell id="a2-framework" parent="workflow" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=32;fillColor=#FFFFFF;strokeColor=#3E4A59;strokeWidth=2.2;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#17242E;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="" vertex="1">
