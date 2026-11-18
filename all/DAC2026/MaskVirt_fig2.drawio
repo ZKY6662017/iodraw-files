@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="EX_CaRndZRvCXhs5yfki">
-    <mxGraphModel dx="718" dy="448" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1800" pageHeight="646" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="2164" dy="1351" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1800" pageHeight="646" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -401,7 +401,7 @@
         <mxCell id="registers" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18.5;fontColor=#17212A;spacing=1;fillColor=#CCE7EE;strokeColor=#4BBCBD;strokeWidth=1.3;rounded=1;arcSize=7;" value="Temporary&lt;br&gt;registers" vertex="1">
           <mxGeometry height="54" width="143.7" x="1598.7" y="276" as="geometry" />
         </mxCell>
-        <mxCell id="transfer" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#17212A;spacing=1;fillColor=#C8E7FB;strokeColor=#5799D1;strokeWidth=1.3;rounded=1;arcSize=7;" value="&lt;b&gt;Shared half-duplex transfer&lt;/b&gt;&lt;br&gt;Load / tagged readback" vertex="1">
+        <mxCell id="transfer" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#17212A;spacing=1;fillColor=#C8E7FB;strokeColor=#5799D1;strokeWidth=1.3;rounded=1;arcSize=7;" value="&lt;b&gt;Shared half-duplex transfer&lt;/b&gt;" vertex="1">
           <mxGeometry height="48" width="357.2" x="547.7" y="351" as="geometry" />
         </mxCell>
         <mxCell id="transfer-note" parent="1" style="html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=19;fontColor=#012C5C;spacing=1;fillColor=none;strokeColor=none;strokeWidth=1.3;rounded=1;arcSize=7;fontStyle=0;" value="One input or output transfer at a time" vertex="1">
