@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="suaC38Sf_El81mKQkW6I">
-    <mxGraphModel dx="3097" dy="1933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2600" pageHeight="880" math="0" shadow="0">
+    <mxGraphModel dx="2164" dy="1351" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2600" pageHeight="880" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" value="Background &amp; zoom links" />
@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="workflow" parent="0" value="(a) Unified FHE workflow" />
-        <mxCell id="r3-scheme" parent="workflow" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=28;fillColor=#FFFFFF;strokeColor=#30436D;strokeWidth=1.9;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="" vertex="1">
+        <mxCell id="r3-scheme" parent="workflow" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=28;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=3;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="" vertex="1">
           <mxGeometry height="550" width="1270" x="20" y="68" as="geometry" />
         </mxCell>
         <mxCell id="r3-scheme-title" parent="workflow" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#334774;strokeColor=#334774;strokeWidth=1.1;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family:Arial;font-size:28px;line-height:33.04px;font-weight:700;color:#FFFFFF;white-space:nowrap&quot;&gt;Common RLWE ciphertexts&lt;/div&gt;" vertex="1">
@@ -300,7 +300,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fboot" parent="0" value="(a) Packed SIMD operations" />
-        <mxCell id="r4-batch-panel" parent="fboot" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=24;fillColor=#F8FCFD;strokeColor=#307484;strokeWidth=1.8;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="" vertex="1">
+        <mxCell id="r4-batch-panel" parent="fboot" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=24;fillColor=#F8FCFD;strokeColor=#000000;strokeWidth=3;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="" vertex="1">
           <mxGeometry height="220" width="1270" x="20" y="638" as="geometry" />
         </mxCell>
         <mxCell id="r4-batch-panel-title" parent="fboot" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#327A8A;strokeColor=#327A8A;strokeWidth=1.1;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family:Arial;font-size:28px;line-height:33.04px;font-weight:700;color:#FFFFFF;white-space:nowrap&quot;&gt;Batched ciphertext operations (SIMD)&lt;/div&gt;" vertex="1">
@@ -434,7 +434,7 @@
           <mxGeometry height="27" width="415" x="538" y="810" as="geometry" />
         </mxCell>
         <mxCell id="system" parent="0" value="(b) System / U280" />
-        <mxCell id="r3-system" parent="system" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=24;fillColor=#F7F8FA;strokeColor=#30436D;strokeWidth=1.8;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="" vertex="1">
+        <mxCell id="r3-system" parent="system" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=24;fillColor=#F7F8FA;strokeColor=#000000;strokeWidth=3;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="" vertex="1">
           <mxGeometry height="790" width="430" x="1320" y="68" as="geometry" />
         </mxCell>
         <mxCell id="r3-system-title" parent="system" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#334774;strokeColor=#334774;strokeWidth=1.1;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family:Arial;font-size:28px;line-height:33.04px;font-weight:700;color:#FFFFFF;white-space:nowrap&quot;&gt;System&lt;/div&gt;" vertex="1">
@@ -636,7 +636,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cu" parent="0" value="(b) CU1 detail" />
-        <mxCell id="r3-cu" parent="cu" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=24;fillColor=#F5FBFA;strokeColor=#00806C;strokeWidth=1.8;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="" vertex="1">
+        <mxCell id="r3-cu" parent="cu" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=24;fillColor=#F5FBFA;strokeColor=#000000;strokeWidth=3;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="" vertex="1">
           <mxGeometry height="790" width="180" x="1770" y="68" as="geometry" />
         </mxCell>
         <mxCell id="r3-cu-title" parent="cu" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#008873;strokeColor=#008873;strokeWidth=1.1;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family: Arial; font-size: 28px; line-height: 33.04px; font-weight: 700; color: rgb(255, 255, 255); white-space: nowrap;&quot;&gt;CU&lt;/div&gt;" vertex="1">
@@ -901,7 +901,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pe" parent="0" value="(b) PE2 detail" />
-        <mxCell id="r3-pe" parent="pe" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=24;fillColor=#FEF8F7;strokeColor=#B83C2A;strokeWidth=1.8;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="" vertex="1">
+        <mxCell id="r3-pe" parent="pe" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=24;fillColor=#FEF8F7;strokeColor=#000000;strokeWidth=3;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="" vertex="1">
           <mxGeometry height="790" width="610" x="1970" y="68" as="geometry" />
         </mxCell>
         <mxCell id="r3-pe-title" parent="pe" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#C4402D;strokeColor=#C4402D;strokeWidth=1.1;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family: Arial; font-size: 28px; line-height: 33.04px; font-weight: 700; color: rgb(255, 255, 255); white-space: nowrap;&quot;&gt;Detailed PE Architecture&lt;/div&gt;" vertex="1">
