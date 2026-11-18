@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="EX_CaRndZRvCXhs5yfki">
-    <mxGraphModel dx="1800" dy="1925" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1800" pageHeight="646" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="167" dy="104" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1800" pageHeight="646" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,9 +159,9 @@
             <mxPoint x="1352.7" y="246" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cpu-transfer" edge="1" parent="1" source="cpu-body" style="html=1;edgeStyle=none;rounded=0;strokeColor=#014E91;strokeWidth=2.7;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=17;fontColor=#014E91;dashed=0;dashPattern=4 3;startArrow=block;endArrow=block;startFill=1;endFill=1;startSize=7;endSize=7;exitX=0.49624;exitY=1.00000;exitPerimeter=0;entryX=0.00000;entryY=0.50000;entryPerimeter=0;" target="transfer" value="Tagged readback: CPU resumes request">
-          <mxGeometry relative="1" x="0.14" as="geometry">
-            <mxPoint y="-13" as="offset" />
+        <mxCell id="cpu-transfer" edge="1" parent="1" source="cpu-body" style="html=1;edgeStyle=none;rounded=0;strokeColor=#014E91;strokeWidth=2.7;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=17;fontColor=#014E91;dashed=0;dashPattern=4 3;startArrow=block;endArrow=block;startFill=1;endFill=1;startSize=7;endSize=7;exitX=0.49624;exitY=1.00000;exitPerimeter=0;entryX=0.00000;entryY=0.50000;entryPerimeter=0;" target="transfer" value="&lt;span style=&quot;background-color: light-dark(rgb(231, 238, 244), rgb(237, 237, 237));&quot;&gt;Tagged readback: CPU resumes request&lt;/span&gt;">
+          <mxGeometry relative="1" x="0.138" y="13" as="geometry">
+            <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="176.6" y="375" />
             </Array>
