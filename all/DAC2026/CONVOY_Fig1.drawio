@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="suaC38Sf_El81mKQkW6I">
-    <mxGraphModel dx="2164" dy="1351" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2600" pageHeight="880" math="0" shadow="0">
+    <mxGraphModel dx="3742" dy="2335" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2600" pageHeight="880" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" value="Background &amp; zoom links" />
@@ -230,7 +230,7 @@
             <mxPoint x="1091" y="471" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r3-highbits-label" parent="workflow" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family:Arial;font-size:25px;line-height:29.5px;font-weight:400;color:#B83C2A;white-space:nowrap&quot;&gt;Y₄–₆&lt;/div&gt;" vertex="1">
+        <mxCell id="r3-highbits-label" parent="workflow" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family: Arial; font-size: 25px; line-height: 29.5px; font-weight: 400; color: rgb(184, 60, 42); white-space: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="29" width="175" x="855" y="437" as="geometry" />
         </mxCell>
         <mxCell id="r4-common-carrier" parent="workflow" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#F7F8FA;strokeColor=#30436D;strokeWidth=1.1;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="" vertex="1">
