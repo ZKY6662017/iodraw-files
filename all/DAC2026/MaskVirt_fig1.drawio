@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="umgxqnRfWpj_pubKZk59">
-    <mxGraphModel dx="718" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2600" pageHeight="880" math="0" shadow="0">
+    <mxGraphModel dx="3742" dy="2335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2600" pageHeight="880" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YdbFefTsBvYrp9ysAf8O-7" edge="1" parent="1" source="requests-panel" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="fixed-panel">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YdbFefTsBvYrp9ysAf8O-7" edge="1" parent="1" source="requests-panel" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=3;endArrow=block;endFill=1;" target="fixed-panel">
+          <mxGeometry relative="1" x="0.0009" as="geometry" />
         </mxCell>
-        <mxCell id="YdbFefTsBvYrp9ysAf8O-8" edge="1" parent="1" source="requests-panel" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="pool-panel">
+        <mxCell id="YdbFefTsBvYrp9ysAf8O-8" edge="1" parent="1" source="requests-panel" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=3;endArrow=block;endFill=1;" target="pool-panel">
           <mxGeometry relative="1" x="-0.0011" as="geometry" />
         </mxCell>
         <mxCell id="requests-panel" parent="1" style="rounded=1;arcSize=6;html=1;fillColor=#DFF1FD;strokeColor=#9DCBEC;strokeWidth=2.26;" value="" vertex="1">
@@ -72,16 +72,6 @@
         </mxCell>
         <mxCell id="job-definition" parent="1" style="html=1;whiteSpace=wrap;verticalAlign=middle;align=left;fontFamily=Helvetica;fontSize=34;fontColor=#012C5C;fontStyle=0;fillColor=none;strokeColor=none;strokeWidth=2.26;rounded=0;arcSize=13;spacing=0;dashed=0;" value="One job transforms all shares of one secret polynomial" vertex="1">
           <mxGeometry height="41.53" width="1184.44" x="1361.39" y="146.25" as="geometry" />
-        </mxCell>
-        <mxCell id="comparison-to-fixed" edge="1" parent="1" style="html=1;rounded=0;endArrow=block;endFill=1;endSize=9.03;strokeWidth=2.62;strokeColor=#014E91;dashed=0;dashPattern=4 3;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1870.55" y="-125.82999999999998" />
-              <mxPoint x="449.5799999999999" y="-125.82999999999998" />
-            </Array>
-            <mxPoint x="1870.55" y="-179.99999999999997" as="sourcePoint" />
-            <mxPoint x="449.5799999999999" y="-102.35999999999996" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="fixed-title" parent="1" style="html=1;whiteSpace=wrap;verticalAlign=middle;align=left;fontFamily=Helvetica;fontSize=45;fontColor=#843200;fontStyle=1;fillColor=none;strokeColor=none;strokeWidth=2.26;rounded=0;arcSize=13;spacing=0;dashed=0;" value="(a) Fixed NTT units" vertex="1">
           <mxGeometry height="54.17" width="920.83" x="65" y="278.06" as="geometry" />
@@ -430,12 +420,6 @@
         </mxCell>
         <mxCell id="architecture-scope" parent="1" style="html=1;whiteSpace=wrap;verticalAlign=middle;align=right;fontFamily=Helvetica;fontSize=28;fontColor=#00394E;fontStyle=0;fillColor=none;strokeColor=none;strokeWidth=2.26;rounded=0;arcSize=13;spacing=0;dashed=0;" value="Proposed architecture" vertex="1">
           <mxGeometry height="46.94" width="438.75" x="2081.81" y="281.67" as="geometry" />
-        </mxCell>
-        <mxCell id="YdbFefTsBvYrp9ysAf8O-1" edge="1" parent="1" style="html=1;rounded=0;endArrow=block;endFill=1;endSize=9.03;strokeWidth=2.62;strokeColor=#014E91;dashed=0;dashPattern=4 3;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="243.75" as="sourcePoint" />
-            <mxPoint x="880" y="267.22" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="YdbFefTsBvYrp9ysAf8O-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
