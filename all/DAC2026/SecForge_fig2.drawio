@@ -1,28 +1,28 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Fig. 2 – SecForge framework" id="sM3pru11F0K9rMgjvVhS">
-    <mxGraphModel dx="2164" dy="1351" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="1121" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="training" parent="1" style="rounded=1;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;strokeWidth=2.4;strokeWidth=1.4;roundedPerimeter=1;fillColor=#F1F7FB;strokeColor=#000000;" value="" vertex="1">
+        <mxCell id="training" parent="1" style="rounded=1;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;strokeWidth=0.4;strokeWidth=1.4;roundedPerimeter=1;fillColor=#F1F7FB;strokeColor=default;glass=0;" value="" vertex="1">
           <mxGeometry height="223" width="1530" x="16" y="57" as="geometry" />
         </mxCell>
-        <mxCell id="trainingtitle" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=none;fillColor=none;fontSize=27;align=left;fontStyle=1;fontColor=#234F69;" value="A. Model Training" vertex="1">
+        <mxCell id="trainingtitle" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.6;strokeColor=none;fillColor=none;fontSize=27;align=left;fontStyle=1;fontColor=#234F69;" value="A. Model Training" vertex="1">
           <mxGeometry height="35" width="1486" x="33" y="62" as="geometry" />
         </mxCell>
-        <mxCell id="generation" parent="1" style="rounded=1;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.6;strokeWidth=1.4;roundedPerimeter=1;fillColor=#FCF8FA;strokeColor=#C1ABB8;" value="" vertex="1">
+        <mxCell id="generation" parent="1" style="rounded=1;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.6;strokeWidth=1.4;roundedPerimeter=1;fillColor=#FCF8FA;strokeColor=#000000;" value="" vertex="1">
           <mxGeometry height="244" width="802" x="16" y="290" as="geometry" />
         </mxCell>
         <mxCell id="generationtitle" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=none;fillColor=none;fontSize=27;align=left;fontStyle=1;fontColor=#673754;" value="B. RTL Generation" vertex="1">
           <mxGeometry height="35" width="758" x="38" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="benchmark" parent="1" style="rounded=1;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.6;strokeWidth=1.4;roundedPerimeter=1;glass=0;fillColor=#F1FAF7;strokeColor=#9BB4AB;" value="" vertex="1">
+        <mxCell id="benchmark" parent="1" style="rounded=1;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.6;strokeWidth=1.4;roundedPerimeter=1;glass=0;fillColor=#F1FAF7;strokeColor=#000000;" value="" vertex="1">
           <mxGeometry height="244" width="714" x="832" y="290" as="geometry" />
         </mxCell>
         <mxCell id="benchmarktitle" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=none;fillColor=none;fontSize=27;align=left;fontStyle=1;fontColor=#165844;" value="C. RTL Evaluation" vertex="1">
           <mxGeometry height="35" width="670" x="854" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="integration" parent="1" style="rounded=1;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.6;strokeWidth=1.4;roundedPerimeter=1;fillColor=#FEFAF1;strokeColor=#C3B396;" value="" vertex="1">
+        <mxCell id="integration" parent="1" style="rounded=1;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.6;strokeWidth=1.4;roundedPerimeter=1;fillColor=#FEFAF1;strokeColor=#000000;" value="" vertex="1">
           <mxGeometry height="123" width="1530" x="16" y="546" as="geometry" />
         </mxCell>
         <mxCell id="integrationtitle" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=none;fillColor=none;fontSize=27;align=left;fontStyle=1;fontColor=#654A18;" value="Arithmetic Checks and System Integration" vertex="1">
