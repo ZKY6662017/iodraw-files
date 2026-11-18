@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="EX_CaRndZRvCXhs5yfki">
-    <mxGraphModel dx="1800" dy="1925" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="646" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="1814" dy="1132" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1800" pageHeight="646" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="architecture-panel-background" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#E7EEF4;strokeColor=#95AABB;strokeWidth=1.4;shadow=0;" value="" vertex="1">
+        <mxCell id="architecture-panel-background" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=34;whiteSpace=wrap;html=1;fillColor=#E7EEF4;strokeColor=#95AABB;strokeWidth=1.4;shadow=0;" value="" vertex="1">
           <mxGeometry height="466" width="1767" x="16" y="2" as="geometry" />
         </mxCell>
         <mxCell id="request-field" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=22;fontColor=#17212A;spacing=1;fillColor=#DFF1FD;strokeColor=#5799D1;strokeWidth=1.3;rounded=1;arcSize=4;" value="" vertex="1">
@@ -19,10 +19,10 @@
         <mxCell id="pool" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=22;fontColor=#17212A;spacing=1;fillColor=#F3FAFA;strokeColor=#4BBCBD;strokeWidth=1.3;rounded=1;arcSize=5;" value="" vertex="1">
           <mxGeometry height="142" width="462.6" x="1289.7" y="96" as="geometry" />
         </mxCell>
-        <mxCell id="lifetime-band" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=22;fontColor=#17212A;spacing=1;fillColor=#F1F4F5;strokeColor=#A6B9BE;strokeWidth=1.3;rounded=1;arcSize=4;" value="" vertex="1">
+        <mxCell id="lifetime-band" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=22;fontColor=#17212A;spacing=1;fillColor=#F1F4F5;strokeColor=#A6B9BE;strokeWidth=1.3;rounded=1;arcSize=27;" value="" vertex="1">
           <mxGeometry height="56" width="1739" x="30" y="404" as="geometry" />
         </mxCell>
-        <mxCell id="eval-band" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=22;fontColor=#17212A;spacing=1;fillColor=#F3E7F2;strokeColor=#BB7CB4;strokeWidth=1.3;rounded=1;arcSize=4;" value="" vertex="1">
+        <mxCell id="eval-band" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=22;fontColor=#17212A;spacing=1;fillColor=#F3E7F2;strokeColor=#BB7CB4;strokeWidth=1.3;rounded=1;arcSize=11;" value="" vertex="1">
           <mxGeometry height="159" width="1767" x="16" y="477" as="geometry" />
         </mxCell>
         <mxCell id="ctx-records" parent="1" style="rounded=1;arcSize=5;fillColor=#FFF6E9;strokeColor=#D78738;strokeWidth=1.3;" value="" vertex="1">
@@ -264,10 +264,10 @@
         <mxCell id="a-title" parent="1" style="html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=#17212A;spacing=1;fillColor=none;strokeColor=none;strokeWidth=1.3;rounded=1;arcSize=7;fontStyle=1;" value="(a)  Proposed shared NTT architecture" vertex="1">
           <mxGeometry height="40" width="777.5" x="31" y="7" as="geometry" />
         </mxCell>
-        <mxCell id="ctrl-caption" parent="1" style="html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#17212A;spacing=1;fillColor=none;strokeColor=none;strokeWidth=1.3;rounded=1;arcSize=7;fontStyle=0;" value="Metadata / control" vertex="1">
+        <mxCell id="ctrl-caption" parent="1" style="html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#000000;spacing=1;fillColor=none;strokeColor=none;strokeWidth=1.3;rounded=1;arcSize=7;fontStyle=0;" value="Metadata / control" vertex="1">
           <mxGeometry height="29" width="187" x="1147" y="11" as="geometry" />
         </mxCell>
-        <mxCell id="data-caption" parent="1" style="html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#17212A;spacing=1;fillColor=none;strokeColor=none;strokeWidth=1.3;rounded=1;arcSize=7;fontStyle=0;" value="Coefficient transfer" vertex="1">
+        <mxCell id="data-caption" parent="1" style="html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#000000;spacing=1;fillColor=none;strokeColor=none;strokeWidth=1.3;rounded=1;arcSize=7;fontStyle=0;" value="Coefficient transfer" vertex="1">
           <mxGeometry height="29" width="287.4" x="1409.8" y="11" as="geometry" />
         </mxCell>
         <mxCell id="request-header" parent="1" style="html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=25;fontColor=#012C5C;spacing=1;fillColor=none;strokeColor=none;strokeWidth=1.3;rounded=1;arcSize=7;fontStyle=1;" value="Requests and software" vertex="1">
@@ -441,7 +441,7 @@
         <mxCell id="response" parent="1" style="html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=21;fontColor=#283D46;spacing=1;fillColor=none;strokeColor=none;strokeWidth=1.3;rounded=1;arcSize=7;fontStyle=1;" value="Final response" vertex="1">
           <mxGeometry height="30" width="236.2" x="1514.1" y="416" as="geometry" />
         </mxCell>
-        <mxCell id="eval-heading" parent="1" style="html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=27;fontColor=#481951;spacing=1;fillColor=none;strokeColor=none;strokeWidth=1.3;rounded=1;arcSize=7;fontStyle=1;" value="(b)  Implementation and evaluation" vertex="1">
+        <mxCell id="eval-heading" parent="1" style="html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=27;fontColor=#000000;spacing=1;fillColor=none;strokeColor=none;strokeWidth=1.3;rounded=1;arcSize=7;fontStyle=1;" value="(b)  Implementation and evaluation" vertex="1">
           <mxGeometry height="33" width="1005" x="30" y="481" as="geometry" />
         </mxCell>
         <mxCell id="capture" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#17212A;spacing=1;fillColor=#EBD6E9;strokeColor=#BB7CB4;strokeWidth=1.3;rounded=1;arcSize=7;" value="Captured secret NTT&lt;br&gt;input shares" vertex="1">
