@@ -381,7 +381,7 @@
             <mxPoint x="1877.89" y="816.11" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="evidence-1-outcome" parent="1" style="html=1;whiteSpace=wrap;verticalAlign=middle;align=left;fontFamily=Helvetica;fontSize=33;fontColor=#481951;fontStyle=0;fillColor=none;strokeColor=none;strokeWidth=2.26;rounded=0;arcSize=13;spacing=0;dashed=0;" value="Shared-service throughput estimate" vertex="1">
+        <mxCell id="evidence-1-outcome" parent="1" style="html=1;whiteSpace=wrap;verticalAlign=middle;align=left;fontFamily=Helvetica;fontSize=33;fontColor=#481951;fontStyle=0;fillColor=none;strokeColor=none;strokeWidth=2.26;rounded=0;arcSize=13;spacing=0;dashed=0;" value="Shared-service throughput&amp;nbsp;" vertex="1">
           <mxGeometry height="43.33" width="640.86" x="1894.14" y="794.44" as="geometry" />
         </mxCell>
         <mxCell id="YdbFefTsBvYrp9ysAf8O-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
