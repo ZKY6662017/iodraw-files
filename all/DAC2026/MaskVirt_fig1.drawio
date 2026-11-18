@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YdbFefTsBvYrp9ysAf8O-7" edge="1" parent="1" source="requests-panel" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=7;endArrow=block;endFill=1;" target="fixed-panel">
+        <mxCell id="YdbFefTsBvYrp9ysAf8O-7" edge="1" parent="1" source="requests-panel" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=6;endArrow=block;endFill=1;" target="fixed-panel">
           <mxGeometry relative="1" x="0.0009" as="geometry" />
         </mxCell>
-        <mxCell id="YdbFefTsBvYrp9ysAf8O-8" edge="1" parent="1" source="requests-panel" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=7;endArrow=block;endFill=1;" target="pool-panel">
+        <mxCell id="YdbFefTsBvYrp9ysAf8O-8" edge="1" parent="1" source="requests-panel" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=6;endArrow=block;endFill=1;" target="pool-panel">
           <mxGeometry relative="1" x="-0.0011" as="geometry" />
         </mxCell>
         <mxCell id="requests-panel" parent="1" style="rounded=1;arcSize=6;html=1;fillColor=#DFF1FD;strokeColor=#000000;strokeWidth=3;" value="" vertex="1">
@@ -80,7 +80,7 @@
           <mxGeometry height="45.14" width="496.53" x="65" y="332.22" as="geometry" />
         </mxCell>
         <mxCell id="fixed-j3-wait" parent="1" style="html=1;whiteSpace=wrap;verticalAlign=middle;align=center;fontFamily=Helvetica;fontSize=34;fontColor=#17212A;fontStyle=1;fillColor=#FBC07F;strokeColor=#27303A;strokeWidth=5;rounded=1;arcSize=13;spacing=0;dashed=1;" value="J3 waits · contexts full" vertex="1">
-          <mxGeometry height="45.14" width="404.44" x="594.03" y="332.22" as="geometry" />
+          <mxGeometry height="45.14" width="404.44" x="594.03" y="296" as="geometry" />
         </mxCell>
         <mxCell id="fixed-unit-0" parent="1" style="html=1;whiteSpace=wrap;verticalAlign=middle;align=center;fontFamily=Helvetica;fontSize=36;fontColor=#17212A;fontStyle=0;fillColor=#FEF7ED;strokeColor=#F59A45;strokeWidth=2.26;rounded=1;arcSize=13;spacing=0;dashed=0;" value="" vertex="1">
           <mxGeometry height="243.75" width="301.53" x="65" y="390" as="geometry" />
@@ -193,12 +193,8 @@
         <mxCell id="fixed-idle-2-1" parent="1" style="html=1;whiteSpace=wrap;verticalAlign=middle;align=center;fontFamily=Helvetica;fontSize=33;fontColor=#61564F;fontStyle=0;fillColor=#FFFBF7;strokeColor=#E1B596;strokeWidth=2.26;rounded=1;arcSize=13;spacing=0;dashed=0;" value="idle" vertex="1">
           <mxGeometry height="52.36" width="126.39" x="852.22" y="559.72" as="geometry" />
         </mxCell>
-        <mxCell id="wait-to-occupied-context" edge="1" parent="1" style="html=1;rounded=0;endArrow=block;endFill=1;endSize=9.03;strokeWidth=2.35;strokeColor=#B74F06;dashed=1;dashPattern=4 3;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="798.06" y="382.78" />
-              <mxPoint x="845" y="382.78" />
-            </Array>
+        <mxCell id="wait-to-occupied-context" edge="1" parent="1" source="fixed-j3-wait" style="html=1;rounded=0;endArrow=block;endFill=1;endSize=9.03;strokeWidth=2.35;strokeColor=#B74F06;dashed=1;dashPattern=4 3;exitX=0.62;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" x="0.0033" as="geometry">
             <mxPoint x="798.06" y="377.36" as="sourcePoint" />
             <mxPoint x="845" y="400.83" as="targetPoint" />
           </mxGeometry>
