@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Fig. 2 – SecForge framework" id="sM3pru11F0K9rMgjvVhS">
-    <mxGraphModel dx="1247" dy="778" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="1121" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="generation" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;fillColor=#F3F5F8;strokeColor=#C7CED7;strokeWidth=1.4;" value="" vertex="1">
           <mxGeometry height="298" width="802" x="16" y="304" as="geometry" />
         </mxCell>
-        <mxCell id="generationtitle" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=none;fillColor=none;fontSize=27;fontColor=#233348;align=left;fontStyle=1;" value="B. Direct RTL generation" vertex="1">
+        <mxCell id="generationtitle" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=none;fillColor=none;fontSize=27;fontColor=#233348;align=left;fontStyle=1;" value="B. RTL generation" vertex="1">
           <mxGeometry height="35" width="758" x="38" y="314" as="geometry" />
         </mxCell>
         <mxCell id="benchmark" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;fillColor=#EEF6F3;strokeColor=#B8D3C9;strokeWidth=1.4;" value="" vertex="1">
@@ -23,10 +23,13 @@
           <mxGeometry height="35" width="670" x="854" y="314" as="geometry" />
         </mxCell>
         <mxCell id="integration" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;fillColor=#FBF6ED;strokeColor=#DCCBB0;strokeWidth=1.4;" value="" vertex="1">
-          <mxGeometry height="194" width="1530" x="16" y="616" as="geometry" />
+          <mxGeometry height="163" width="1530" x="16" y="616" as="geometry" />
         </mxCell>
         <mxCell id="integrationtitle" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=none;fillColor=none;fontSize=27;fontColor=#845C2F;align=left;fontStyle=1;" value="Arithmetic diagnostics and system integration" vertex="1">
           <mxGeometry height="35" width="1486" x="38" y="626" as="geometry" />
+        </mxCell>
+        <mxCell id="AP8HaHsmk7U7I8zf7cx0-7" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;fillColor=#F8FAFC;strokeColor=#A5B2C0;strokeWidth=1.2;" value="" vertex="1">
+          <mxGeometry height="107" width="230" x="25" y="95" as="geometry" />
         </mxCell>
         <mxCell id="examplesback" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;fillColor=#F8FAFC;strokeColor=#A5B2C0;strokeWidth=1.2;" value="" vertex="1">
           <mxGeometry height="107" width="230" x="33" y="102" as="geometry" />
@@ -43,7 +46,10 @@
         <mxCell id="cycle" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=#365B84;fillColor=#FFFFFF;fontSize=24;spacing=3;" value="&lt;b&gt;Contract-and-cycle RL&lt;/b&gt;&lt;div style=&quot;font-size:21px;line-height:1.18;margin-top:5px&quot;&gt;Eligible RTL gains reward for fewer&lt;br&gt;cycles and lower resource use&lt;/div&gt;" vertex="1">
           <mxGeometry height="101" width="371" x="619" y="162" as="geometry" />
         </mxCell>
-        <mxCell id="candidatesback" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;fillColor=#F8FAFC;strokeColor=#A5B2C0;strokeWidth=1.2;" value="" vertex="1">
+        <mxCell id="AP8HaHsmk7U7I8zf7cx0-8" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;fillColor=#F8FAFC;strokeColor=#A5B2C0;strokeWidth=1.2;container=1;" value="" vertex="1">
+          <mxGeometry height="93" width="192" x="1028" y="102" as="geometry" />
+        </mxCell>
+        <mxCell id="candidatesback" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;fillColor=#F8FAFC;strokeColor=#A5B2C0;strokeWidth=1.2;container=1;" value="" vertex="1">
           <mxGeometry height="93" width="192" x="1035" y="109" as="geometry" />
         </mxCell>
         <mxCell id="grader" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=#16675F;fillColor=#F2F8F6;fontSize=24;spacing=3;" value="&lt;b&gt;Training RTL checks&lt;/b&gt;&lt;div style=&quot;font-size:21px;line-height:1.18;margin-top:5px&quot;&gt;Simulate outputs and&lt;br&gt;interface behavior&lt;/div&gt;" vertex="1">
@@ -183,23 +189,23 @@
         <mxCell id="evaluated" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=none;fillColor=none;fontSize=20;fontColor=#16675F;align=left;" value="Compare reference outputs and probe request/completion behavior." vertex="1">
           <mxGeometry height="40" width="660" x="858" y="551" as="geometry" />
         </mxCell>
-        <mxCell id="secir" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=#845C2F;fillColor=#FFFFFF;fontSize=24;spacing=3;" value="&lt;b&gt;SecIR program&lt;/b&gt;&lt;div style=&quot;font-size:21px;line-height:1.18;margin-top:5px&quot;&gt;Model-generated&lt;br&gt;ML-KEM arithmetic&lt;/div&gt;" vertex="1">
-          <mxGeometry height="94" width="197" x="40" y="689" as="geometry" />
+        <mxCell id="secir" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=#845C2F;fillColor=#FFFFFF;fontSize=24;spacing=3;" value="&lt;b&gt;SecIR Program&lt;/b&gt;" vertex="1">
+          <mxGeometry height="94" width="197" x="40" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="range" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=#845C2F;fillColor=#FFFFFF;fontSize=24;spacing=3;" value="&lt;b&gt;Arithmetic checks&lt;/b&gt;&lt;div style=&quot;font-size:21px;line-height:1.18;margin-top:5px&quot;&gt;Signed 32-bit range&lt;br&gt;Modular equivalence&lt;/div&gt;" vertex="1">
-          <mxGeometry height="114" width="249" x="271" y="679" as="geometry" />
+        <mxCell id="range" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=#845C2F;fillColor=#FFFFFF;fontSize=24;spacing=3;" value="&lt;b&gt;Arithmetic Checks&lt;/b&gt;" vertex="1">
+          <mxGeometry height="94" width="249" x="271" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="compile" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=#845C2F;fillColor=#FFFFFF;fontSize=24;spacing=3;" value="&lt;b&gt;RTL compiler&lt;/b&gt;&lt;div style=&quot;font-size:21px;line-height:1.18;margin-top:5px&quot;&gt;Schedule and emit&lt;br&gt;kernel RTL&lt;/div&gt;" vertex="1">
-          <mxGeometry height="94" width="198" x="554" y="689" as="geometry" />
+        <mxCell id="compile" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=#845C2F;fillColor=#FFFFFF;fontSize=24;spacing=3;" value="&lt;b&gt;RTL Compiler&lt;/b&gt;" vertex="1">
+          <mxGeometry height="94" width="198" x="554" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="kernel" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=#16675F;fillColor=#ECF5F1;fontSize=24;spacing=3;" value="&lt;b&gt;Accepted kernel&lt;/b&gt;&lt;div style=&quot;font-size:21px;line-height:1.18;margin-top:5px&quot;&gt;Coefficient-pair RTL&lt;/div&gt;" vertex="1">
-          <mxGeometry height="94" width="206" x="786" y="689" as="geometry" />
+        <mxCell id="kernel" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=#16675F;fillColor=#ECF5F1;fontSize=24;spacing=3;" value="&lt;b&gt;Accepted Kernel&lt;/b&gt;" vertex="1">
+          <mxGeometry height="94" width="206" x="786" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="backend" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=#845C2F;fillColor=#FFFFFF;fontSize=24;spacing=3;" value="&lt;b&gt;Trusted backend&lt;/b&gt;&lt;div style=&quot;font-size:21px;line-height:1.18;margin-top:5px&quot;&gt;ML-KEM transforms,&lt;br&gt;sampling, SHA3/SHAKE&lt;/div&gt;" vertex="1">
-          <mxGeometry height="114" width="257" x="1026" y="679" as="geometry" />
+        <mxCell id="backend" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=#845C2F;fillColor=#FFFFFF;fontSize=24;spacing=3;" value="&lt;b&gt;Trusted Backend&lt;/b&gt;" vertex="1">
+          <mxGeometry height="94" width="257" x="1026" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="measure" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=#845C2F;fillColor=#FFFFFF;fontSize=24;spacing=3;" value="&lt;b&gt;System timing&lt;/b&gt;&lt;div style=&quot;font-size:20px;line-height:1.18;margin-top:5px&quot;&gt;KeyGen, Encaps and&lt;br&gt;Decaps cycles&lt;/div&gt;" vertex="1">
-          <mxGeometry height="94" width="206" x="1317" y="689" as="geometry" />
+        <mxCell id="measure" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=#845C2F;fillColor=#FFFFFF;fontSize=24;spacing=3;" value="&lt;b&gt;System Timing&lt;/b&gt;" vertex="1">
+          <mxGeometry height="94" width="206" x="1317" y="670" as="geometry" />
         </mxCell>
         <mxCell id="secirTorange" edge="1" parent="1" source="secir" style="edgeStyle=none;html=1;rounded=0;strokeColor=#48596A;strokeWidth=2.1;endArrow=block;endFill=1;endSize=7;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;" target="range">
           <mxGeometry relative="1" as="geometry" />
