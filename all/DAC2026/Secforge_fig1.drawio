@@ -14,17 +14,17 @@
           <mxGeometry height="56" width="818" x="16" y="44" as="geometry" />
         </mxCell>
         <object label="&lt;b&gt;Target&lt;/b&gt; &amp;nbsp; &lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;y&lt;/i&gt; = (γ&lt;i&gt;r&lt;/i&gt;) mod &lt;i&gt;q&lt;/i&gt;&lt;/font&gt; &amp;nbsp; | &amp;nbsp; Signed 32-bit arithmetic" caption="Three implementations of the same ML-KEM modular product. For the example input, (a) multiplying first overflows, (b) one extra reduction avoids overflow and preserves the required result, and (c) substituting a smaller coefficient fits the datapath but changes the result." tooltip="Three implementations of the same ML-KEM modular product. For the example input, (a) multiplying first overflows, (b) one extra reduction avoids overflow and preserves the required result, and (c) substituting a smaller coefficient fits the datapath but changes the result." id="requirement">
-          <mxCell parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;align=center;verticalAlign=middle;spacing=0;fontColor=#234F69;fontSize=26;" vertex="1">
+          <mxCell parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;align=center;verticalAlign=middle;spacing=0;fontColor=#000000;fontSize=26;" vertex="1">
             <mxGeometry height="42" width="790" x="30" y="51" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="inputs" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;verticalAlign=middle;spacing=0;align=left;fontColor=#566577;fontSize=22;" value="For the same example input" vertex="1">
+        <mxCell id="inputs" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;verticalAlign=middle;spacing=0;align=left;fontColor=#000000;fontSize=22;" value="For the same example input" vertex="1">
           <mxGeometry height="40" width="500" x="26" y="109" as="geometry" />
         </mxCell>
-        <mxCell id="safeHeader" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;align=center;verticalAlign=middle;spacing=0;fontColor=#234F69;fontSize=21;" value="Fits in&lt;br&gt;32 bits?" vertex="1">
+        <mxCell id="safeHeader" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;align=center;verticalAlign=middle;spacing=0;fontColor=#000000;fontSize=21;" value="Fits in&lt;br&gt;32 bits?" vertex="1">
           <mxGeometry height="51" width="138" x="555" y="104" as="geometry" />
         </mxCell>
-        <mxCell id="correctHeader" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;align=center;verticalAlign=middle;spacing=0;fontColor=#234F69;fontSize=21;" value="Correct&lt;br&gt;result?" vertex="1">
+        <mxCell id="correctHeader" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;align=center;verticalAlign=middle;spacing=0;fontColor=#000000;fontSize=21;" value="Correct&lt;br&gt;result?" vertex="1">
           <mxGeometry height="51" width="138" x="694" y="104" as="geometry" />
         </mxCell>
         <mxCell id="bBand" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fontFamily=Arial;fontSize=25;fontColor=#253243;align=center;verticalAlign=middle;spacing=0;strokeWidth=3;fillColor=#F1FAF7;strokeColor=#000000;roundedPerimeter=1;" value="" vertex="1">
@@ -39,19 +39,19 @@
         <mxCell id="titleC" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;align=left;fontSize=25;fontColor=#000000;" value="&lt;b&gt;(c)&lt;/b&gt; &lt;b&gt;Change coefficient&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="580" x="26" y="446" as="geometry" />
         </mxCell>
-        <mxCell id="aInput" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;fontSize=25;fontColor=#253243;align=center;verticalAlign=middle;spacing=0;fontSize=33;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;r&lt;/i&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="aInput" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;fontSize=25;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;fontSize=33;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;r&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="34" x="24" y="209" as="geometry" />
         </mxCell>
-        <mxCell id="bInput" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;fontSize=25;fontColor=#253243;align=center;verticalAlign=middle;spacing=0;fontSize=33;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;r&lt;/i&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="bInput" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;fontSize=25;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;fontSize=33;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;r&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="34" x="24" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="cInput" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;fontSize=25;fontColor=#253243;align=center;verticalAlign=middle;spacing=0;fontSize=33;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;r&lt;/i&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="cInput" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;fontSize=25;fontColor=#000000;align=center;verticalAlign=middle;spacing=0;fontSize=33;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;r&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="34" x="24" y="491" as="geometry" />
         </mxCell>
-        <mxCell id="aMul" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.8;fontSize=30;fillColor=#EFD4E3;strokeColor=#906981;fontColor=#233348;" value="&lt;font face=&quot;Times New Roman&quot;&gt;× γ&lt;/font&gt;" vertex="1">
+        <mxCell id="aMul" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.8;fontSize=30;fillColor=#EFD4E3;strokeColor=#906981;fontColor=#000000;" value="&lt;font face=&quot;Times New Roman&quot;&gt;× γ&lt;/font&gt;" vertex="1">
           <mxGeometry height="56" width="116" x="250" y="201" as="geometry" />
         </mxCell>
-        <mxCell id="aMod" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.8;fontSize=30;dashed=1;dashPattern=4 3;fillColor=#FAF3F7;strokeColor=#A88A9D;fontColor=#675F67;" value="&lt;font face=&quot;Times New Roman&quot;&gt;mod &lt;i&gt;q&lt;/i&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="aMod" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.8;fontSize=30;dashed=1;dashPattern=4 3;fillColor=#FAF3F7;strokeColor=#A88A9D;fontColor=#000000;" value="&lt;font face=&quot;Times New Roman&quot;&gt;mod &lt;i&gt;q&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="56" width="116" x="410" y="201" as="geometry" />
         </mxCell>
         <mxCell id="aIn" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;strokeColor=#465362;strokeWidth=1.8;endArrow=block;endFill=1;endSize=8;" value="">
@@ -66,7 +66,7 @@
             <mxPoint x="406" y="229" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aOverflow" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;fontSize=23;fontColor=#673754;" value="Overflow" vertex="1">
+        <mxCell id="aOverflow" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;fontSize=23;fontColor=#000000;" value="Overflow" vertex="1">
           <mxGeometry height="29" width="200" x="208" y="260" as="geometry" />
         </mxCell>
         <mxCell id="aSafel" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;strokeColor=#465362;strokeWidth=1.8;endArrow=block;endFill=1;endSize=8;strokeColor=#B7473D;strokeWidth=3.6;endArrow=none;" value="">
@@ -84,13 +84,13 @@
         <mxCell id="aCorrect" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;fontSize=25;fontColor=#253243;align=center;verticalAlign=middle;spacing=0;fontSize=30;fontColor=#737E8B;" value="—" vertex="1">
           <mxGeometry height="42" width="48" x="740" y="208" as="geometry" />
         </mxCell>
-        <mxCell id="bReduce" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.8;fontSize=30;fillColor=#ADE0D2;strokeColor=#4C7969;fontColor=#233348;" value="&lt;font face=&quot;Times New Roman&quot;&gt;mod &lt;i&gt;q&lt;/i&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="bReduce" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.8;fontSize=30;fillColor=#ADE0D2;strokeColor=#4C7969;fontColor=#000000;" value="&lt;font face=&quot;Times New Roman&quot;&gt;mod &lt;i&gt;q&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="56" width="116" x="92" y="342" as="geometry" />
         </mxCell>
-        <mxCell id="bMul" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.8;fontSize=30;strokeColor=#4C7969;fontColor=#233348;fillColor=#EFF7F4;" value="&lt;font face=&quot;Times New Roman&quot;&gt;× γ&lt;/font&gt;" vertex="1">
+        <mxCell id="bMul" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.8;fontSize=30;strokeColor=#4C7969;fontColor=#000000;fillColor=#EFF7F4;" value="&lt;font face=&quot;Times New Roman&quot;&gt;× γ&lt;/font&gt;" vertex="1">
           <mxGeometry height="56" width="116" x="250" y="342" as="geometry" />
         </mxCell>
-        <mxCell id="bMod" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.8;fontSize=30;strokeColor=#4C7969;fontColor=#233348;fillColor=#F7FAF9;" value="&lt;font face=&quot;Times New Roman&quot;&gt;mod &lt;i&gt;q&lt;/i&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="bMod" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.8;fontSize=30;strokeColor=#4C7969;fontColor=#000000;fillColor=#F7FAF9;" value="&lt;font face=&quot;Times New Roman&quot;&gt;mod &lt;i&gt;q&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="56" width="116" x="410" y="342" as="geometry" />
         </mxCell>
         <mxCell id="bIn" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;strokeColor=#465362;strokeWidth=1.8;endArrow=block;endFill=1;endSize=8;" value="">
@@ -111,7 +111,7 @@
             <mxPoint x="406" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bRValue" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;fontSize=23;fontColor=#165844;" value="Extra reduction" vertex="1">
+        <mxCell id="bRValue" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;fontSize=23;fontColor=#000000;" value="Extra reduction" vertex="1">
           <mxGeometry height="25" width="200" x="50" y="400" as="geometry" />
         </mxCell>
         <mxCell id="bSafel" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;strokeColor=#465362;strokeWidth=1.8;endArrow=block;endFill=1;endSize=8;strokeColor=#19786D;strokeWidth=3.6;endArrow=none;" value="">
@@ -138,10 +138,10 @@
             <mxPoint x="778" y="359" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMul" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.8;fontSize=30;fillColor=#F7E0AD;strokeColor=#947744;fontColor=#233348;" value="&lt;font face=&quot;Times New Roman&quot;&gt;× γ′&lt;/font&gt;" vertex="1">
+        <mxCell id="cMul" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.8;fontSize=30;fillColor=#F7E0AD;strokeColor=#947744;fontColor=#000000;" value="&lt;font face=&quot;Times New Roman&quot;&gt;× γ′&lt;/font&gt;" vertex="1">
           <mxGeometry height="56" width="116" x="250" y="483" as="geometry" />
         </mxCell>
-        <mxCell id="cMod" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.8;fontSize=30;fillColor=#FDF6E8;strokeColor=#947744;fontColor=#233348;" value="&lt;font face=&quot;Times New Roman&quot;&gt;mod &lt;i&gt;q&lt;/i&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="cMod" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;strokeWidth=1.8;fontSize=30;fillColor=#FDF6E8;strokeColor=#947744;fontColor=#000000;" value="&lt;font face=&quot;Times New Roman&quot;&gt;mod &lt;i&gt;q&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="56" width="116" x="410" y="483" as="geometry" />
         </mxCell>
         <mxCell id="cIn" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;strokeColor=#465362;strokeWidth=1.8;endArrow=block;endFill=1;endSize=8;" value="">
@@ -156,7 +156,7 @@
             <mxPoint x="406" y="511" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cChanged" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;fontSize=23;fontColor=#654A18;" value="Smaller coefficient" vertex="1">
+        <mxCell id="cChanged" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;strokeColor=none;fillColor=none;fontFamily=Arial;fontSize=25;align=center;verticalAlign=middle;spacing=0;fontSize=23;fontColor=#000000;" value="Smaller coefficient" vertex="1">
           <mxGeometry height="28" width="226" x="195" y="540" as="geometry" />
         </mxCell>
         <mxCell id="cSafel" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;strokeColor=#465362;strokeWidth=1.8;endArrow=block;endFill=1;endSize=8;strokeColor=#19786D;strokeWidth=3.6;endArrow=none;" value="">
