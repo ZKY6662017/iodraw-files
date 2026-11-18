@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="suaC38Sf_El81mKQkW6I">
-    <mxGraphModel dx="2641" dy="1649" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2600" pageHeight="880" math="0" shadow="0">
+    <mxGraphModel dx="2164" dy="1351" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2600" pageHeight="880" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" value="Background &amp; zoom links" />
@@ -71,7 +71,7 @@
         <mxCell id="r3-mac-label" parent="workflow" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family:Arial;font-size:25px;line-height:29.5px;font-weight:700;color:#30436D;white-space:nowrap&quot;&gt;MAC&lt;/div&gt;" vertex="1">
           <mxGeometry height="29" width="106" x="529" y="218" as="geometry" />
         </mxCell>
-        <mxCell id="r3-signed-label" parent="workflow" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family:Arial;font-size:20px;line-height:23.599999999999998px;font-weight:400;color:#30436D;white-space:nowrap&quot;&gt;signed16&lt;/div&gt;" vertex="1">
+        <mxCell id="r3-signed-label" parent="workflow" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family: Arial; font-size: 20px; line-height: 23.6px; font-weight: 400; color: rgb(48, 67, 109); white-space: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="25" width="101" x="531" y="371" as="geometry" />
         </mxCell>
         <mxCell id="r3-data-mac" edge="1" parent="workflow" source="r3-data" style="edgeStyle=none;html=1;rounded=0;curved=0;strokeColor=#30436D;strokeWidth=1.9;endArrow=block;startArrow=none;endFill=1;startFill=1;endSize=8;startSize=8;jumpStyle=none;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.254;entryPerimeter=0;" target="r3-mac" value="">
@@ -90,7 +90,7 @@
             <mxPoint x="539" y="343" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r3-product-rule" parent="workflow" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family:Arial;font-size:22px;line-height:25.959999999999997px;font-weight:400;color:#30436D;white-space:nowrap&quot;&gt;P(aⱼ)B(wⱼ) → P(aⱼwⱼ mod 256)&lt;/div&gt;" vertex="1">
+        <mxCell id="r3-product-rule" parent="workflow" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family: Arial; font-size: 22px; line-height: 25.96px; font-weight: 400; color: rgb(48, 67, 109); white-space: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="28" width="578" x="49" y="391" as="geometry" />
         </mxCell>
         <mxCell id="r3-byte-label" parent="workflow" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=left;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family:Arial;font-size:26px;line-height:30.68px;font-weight:700;color:#30436D;white-space:nowrap&quot;&gt;P(x)&lt;/div&gt;" vertex="1">
@@ -111,14 +111,14 @@
         <mxCell id="r3-byte-inputs-3" parent="workflow" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=8;fillColor=#E6E9F0;strokeColor=#30436D;strokeWidth=1.15;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family:Arial;font-size:25px;line-height:29.5px;font-weight:400;color:#202B36;white-space:nowrap&quot;&gt;xⱼ&lt;/div&gt;" vertex="1">
           <mxGeometry height="42" width="90" x="412" y="442" as="geometry" />
         </mxCell>
-        <mxCell id="r3-byte-mode" parent="workflow" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family:Arial;font-size:18px;line-height:21.24px;font-weight:400;color:#566574;white-space:nowrap&quot;&gt;x: uₖ or H&lt;/div&gt;" vertex="1">
+        <mxCell id="r3-byte-mode" parent="workflow" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family: Arial; font-size: 18px; line-height: 21.24px; font-weight: 400; color: rgb(86, 101, 116); white-space: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="21" width="300" x="192" y="482" as="geometry" />
         </mxCell>
-        <mxCell id="r3-mac-byte" edge="1" parent="workflow" source="r3-mac" style="edgeStyle=none;html=1;rounded=0;curved=0;strokeColor=#30436D;strokeWidth=1.9;endArrow=block;startArrow=none;endFill=1;startFill=1;endSize=8;startSize=8;jumpStyle=none;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.497;entryY=0;entryPerimeter=0;" target="r3-byte-inputs" value="">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="r3-mac-byte" edge="1" parent="workflow" source="r3-mac" style="edgeStyle=none;html=1;rounded=0;curved=0;strokeColor=#30436D;strokeWidth=1.9;endArrow=block;startArrow=none;endFill=1;startFill=1;endSize=8;startSize=8;jumpStyle=none;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.612;entryY=0.015;entryPerimeter=0;entryDx=0;entryDy=0;" target="r3-byte-inputs" value="">
+          <mxGeometry relative="1" x="0.2139" as="geometry">
             <Array as="points">
-              <mxPoint x="582" y="430" />
-              <mxPoint x="339" y="430" />
+              <mxPoint x="582" y="398.39" />
+              <mxPoint x="377.18" y="398.39" />
             </Array>
             <mxPoint x="582" y="369" as="sourcePoint" />
             <mxPoint x="339" y="442" as="targetPoint" />
