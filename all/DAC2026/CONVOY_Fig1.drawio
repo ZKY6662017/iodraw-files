@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="suaC38Sf_El81mKQkW6I">
-    <mxGraphModel dx="2625" dy="1925" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2600" pageHeight="880" math="0" shadow="0">
+    <mxGraphModel dx="3097" dy="1933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2600" pageHeight="880" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" value="Background &amp; zoom links" />
@@ -967,7 +967,7 @@
         <mxCell id="r3-buffers-title" parent="pe" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family:Arial;font-size:27px;line-height:31.86px;font-weight:700;color:#B83C2A;white-space:nowrap&quot;&gt;Shared buffers · 32 URAM&lt;/div&gt;" vertex="1">
           <mxGeometry height="34" width="542" x="2004" y="246" as="geometry" />
         </mxCell>
-        <mxCell id="r3-banks-count" parent="pe" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family:Arial;font-size:23px;line-height:27.139999999999997px;font-weight:400;color:#B83C2A;white-space:nowrap&quot;&gt;8 banks/buffer · 64-bit&lt;/div&gt;" vertex="1">
+        <mxCell id="r3-banks-count" parent="pe" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family: Arial; font-size: 23px; line-height: 27.14px; font-weight: 400; color: rgb(184, 60, 42); white-space: nowrap;&quot;&gt;8 banks/buffer&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="27" width="525" x="2012" y="282" as="geometry" />
         </mxCell>
         <mxCell id="r3-buffer-0" parent="pe" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=14;fillColor=#FEFBFB;strokeColor=#B83C2A;strokeWidth=1.6;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="" vertex="1">
@@ -1075,7 +1075,7 @@
         <mxCell id="r3-datapath" parent="pe" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=22;fillColor=#FCEDEB;strokeColor=#B83C2A;strokeWidth=1.6;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="" vertex="1">
           <mxGeometry height="288" width="570" x="1990" y="550" as="geometry" />
         </mxCell>
-        <mxCell id="r3-datapath-title" parent="pe" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family:Arial;font-size:29px;line-height:34.22px;font-weight:700;color:#B83C2A;white-space:nowrap&quot;&gt;8 lanes · 60-bit&lt;/div&gt;" vertex="1">
+        <mxCell id="r3-datapath-title" parent="pe" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family: Arial; font-size: 29px; line-height: 34.22px; font-weight: 700; color: rgb(184, 60, 42); white-space: nowrap;&quot;&gt;8 lanes&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="37" width="539" x="2005" y="561" as="geometry" />
         </mxCell>
         <mxCell id="r3-buffer-data-0" edge="1" parent="pe" source="r3-shared-buffers" style="edgeStyle=none;html=1;rounded=0;curved=0;strokeColor=#B83C2A;strokeWidth=1.9;endArrow=block;startArrow=block;endFill=1;startFill=1;endSize=8;startSize=8;jumpStyle=none;exitX=0.219;exitY=1;exitPerimeter=0;entryX=0.219;entryY=0;entryPerimeter=0;" target="r3-datapath" value="">
