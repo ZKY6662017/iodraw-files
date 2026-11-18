@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YdbFefTsBvYrp9ysAf8O-7" edge="1" parent="1" source="requests-panel" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=3;endArrow=block;endFill=1;" target="fixed-panel">
+        <mxCell id="YdbFefTsBvYrp9ysAf8O-7" edge="1" parent="1" source="requests-panel" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=7;endArrow=block;endFill=1;" target="fixed-panel">
           <mxGeometry relative="1" x="0.0009" as="geometry" />
         </mxCell>
-        <mxCell id="YdbFefTsBvYrp9ysAf8O-8" edge="1" parent="1" source="requests-panel" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=3;endArrow=block;endFill=1;" target="pool-panel">
+        <mxCell id="YdbFefTsBvYrp9ysAf8O-8" edge="1" parent="1" source="requests-panel" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=7;endArrow=block;endFill=1;" target="pool-panel">
           <mxGeometry relative="1" x="-0.0011" as="geometry" />
         </mxCell>
         <mxCell id="requests-panel" parent="1" style="rounded=1;arcSize=6;html=1;fillColor=#DFF1FD;strokeColor=#000000;strokeWidth=3;" value="" vertex="1">
