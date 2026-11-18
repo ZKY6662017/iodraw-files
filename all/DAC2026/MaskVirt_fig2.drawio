@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="EX_CaRndZRvCXhs5yfki">
-    <mxGraphModel dx="2164" dy="1351" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="646" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="2164" dy="1351" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1800" pageHeight="646" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -441,7 +441,7 @@
         <mxCell id="capture" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#17212A;spacing=1;fillColor=#EBD6E9;strokeColor=#BB7CB4;strokeWidth=1.3;rounded=1;arcSize=7;" value="Captured secret NTT&lt;br&gt;input shares" vertex="1">
           <mxGeometry height="54" width="214" x="32" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="rtl" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;spacing=1;fillColor=#792C74;strokeColor=#792C74;strokeWidth=1.3;rounded=1;arcSize=7;" value="&lt;b&gt;NTT RTL simulation&lt;/b&gt;&lt;br&gt;Single-owner forward NTT" vertex="1">
+        <mxCell id="rtl" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;spacing=1;fillColor=#792C74;strokeColor=#792C74;strokeWidth=1.3;rounded=1;arcSize=7;" value="&lt;b&gt;NTT RTL implementation&lt;/b&gt;&lt;br&gt;Single-owner forward NTT" vertex="1">
           <mxGeometry height="54" width="267" x="272" y="520" as="geometry" />
         </mxCell>
         <mxCell id="out-shares" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#17212A;spacing=1;fillColor=#D3AAD1;strokeColor=#BB7CB4;strokeWidth=1.3;rounded=1;arcSize=7;" value="RTL output shares" vertex="1">
@@ -450,7 +450,7 @@
         <mxCell id="cycles" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#17212A;spacing=1;fillColor=#D3AAD1;strokeColor=#BB7CB4;strokeWidth=1.3;rounded=1;arcSize=7;" value="RTL phase counts" vertex="1">
           <mxGeometry height="32" width="204" x="670" y="542" as="geometry" />
         </mxCell>
-        <mxCell id="replay" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#17212A;spacing=1;fillColor=#D3AAD1;strokeColor=#BB7CB4;strokeWidth=1.3;rounded=1;arcSize=7;" value="&lt;b&gt;Offline complete-request replay&lt;/b&gt;" vertex="1">
+        <mxCell id="replay" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;spacing=1;fillColor=light-dark(#792c74, #6a4769);strokeColor=light-dark(#792c74, #9c6596);strokeWidth=1.3;rounded=1;arcSize=7;" value="&lt;b&gt;Offline complete-request replay&lt;/b&gt;" vertex="1">
           <mxGeometry height="36" width="342" x="1035" y="515" as="geometry" />
         </mxCell>
         <mxCell id="check" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#17212A;spacing=1;fillColor=#EBD6E9;strokeColor=#BB7CB4;strokeWidth=1.3;rounded=1;arcSize=7;" value="Final ML-KEM output check" vertex="1">
