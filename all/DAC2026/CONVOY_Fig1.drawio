@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="suaC38Sf_El81mKQkW6I">
-    <mxGraphModel dx="2625" dy="1925" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2600" pageHeight="880" math="0" shadow="0">
+    <mxGraphModel dx="2641" dy="1649" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2600" pageHeight="880" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" value="Background &amp; zoom links" />
@@ -943,7 +943,7 @@
         <mxCell id="r3-pe-control-chip-pb-2" parent="pe" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=#EB6F5D;strokeColor=none;strokeWidth=1.6;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="" vertex="1">
           <mxGeometry height="7" width="5" x="2090" y="192" as="geometry" />
         </mxCell>
-        <mxCell id="r3-pe-control-chip" parent="pe" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#FCEDEB;strokeColor=#B83C2A;strokeWidth=1.5;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family:Arial;font-size:26px;line-height:30.68px;font-weight:400;color:#202B36;white-space:nowrap&quot;&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="r3-pe-control-chip" parent="pe" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#FCEDEB;strokeColor=#B83C2A;strokeWidth=1.5;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="Control&lt;div style=&quot;font-family: Arial; font-size: 26px; line-height: 30.68px; font-weight: 400; color: rgb(32, 43, 54); white-space: nowrap;&quot;&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="53" width="83" x="2021" y="139" as="geometry" />
         </mxCell>
         <mxCell id="r3-opcode" parent="pe" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=14;fillColor=#FCE9E7;strokeColor=#B83C2A;strokeWidth=1.6;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family:Arial;font-size:27px;line-height:31.86px;font-weight:700;color:#202B36;white-space:nowrap&quot;&gt;Opcode / mode&lt;/div&gt;" vertex="1">
