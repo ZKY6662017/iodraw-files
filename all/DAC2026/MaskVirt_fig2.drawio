@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="EX_CaRndZRvCXhs5yfki">
-    <mxGraphModel dx="2164" dy="1351" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1800" pageHeight="646" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="1800" dy="1925" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="646" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,7 +148,7 @@
             <mxPoint x="1289.7" y="213" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pe-detail-leader" edge="1" parent="1" source="pe-8" style="html=1;edgeStyle=none;rounded=0;strokeColor=#016879;strokeWidth=1.8;dashed=1;dashPattern=4 3;startArrow=none;endArrow=none;startFill=1;endFill=1;startSize=7;endSize=7;exitX=0.50000;exitY=1.00000;exitPerimeter=0;">
+        <mxCell id="pe-detail-leader" edge="1" parent="1" source="pe-8" style="html=1;edgeStyle=none;rounded=0;strokeColor=#016879;strokeWidth=1.8;dashed=1;dashPattern=4 3;startArrow=none;endArrow=none;startFill=1;endFill=1;startSize=7;endSize=7;exitX=0.50000;exitY=1.00000;exitPerimeter=0;entryX=0.1362;entryY=0;entryPerimeter=0;" target="inside-p8-group">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1352.7" y="227" as="sourcePoint" />
             <mxPoint x="1352.7" y="246" as="targetPoint" />
@@ -389,17 +389,20 @@
         <mxCell id="pe-11" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=#536366;spacing=1;fillColor=#F5F7F7;strokeColor=#B7C6C6;strokeWidth=1.3;rounded=1;arcSize=7;" value="P11 free" vertex="1">
           <mxGeometry height="29" width="106.3" x="1636.1" y="198" as="geometry" />
         </mxCell>
-        <mxCell id="expanded-header" parent="1" style="html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#00394E;spacing=1;fillColor=none;strokeColor=none;strokeWidth=1.3;rounded=1;arcSize=7;fontStyle=1;" value="Inside P8" vertex="1">
-          <mxGeometry height="27" width="211.6" x="1299.6" y="246" as="geometry" />
+        <mxCell id="inside-p8-group" parent="1" style="rounded=1;arcSize=7;html=1;whiteSpace=wrap;container=1;collapsible=0;recursiveResize=0;fillColor=#CFE9E8;strokeColor=#41979F;strokeWidth=1.5;" value="" vertex="1">
+          <mxGeometry height="92" width="462.6" x="1289.7" y="246" as="geometry" />
         </mxCell>
-        <mxCell id="butterfly" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18.5;fontColor=#17212A;spacing=1;fillColor=#CCE7EE;strokeColor=#4BBCBD;strokeWidth=1.3;rounded=1;arcSize=7;" value="Butterfly&lt;br&gt;datapath" vertex="1">
-          <mxGeometry height="54" width="114.2" x="1298.6" y="276" as="geometry" />
+        <mxCell id="expanded-header" parent="inside-p8-group" style="html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#00394E;spacing=1;fillColor=none;strokeColor=none;strokeWidth=1.3;rounded=1;arcSize=7;fontStyle=1;" value="Inside P8" vertex="1">
+          <mxGeometry height="27" width="211.6" x="9.9" y="2" as="geometry" />
         </mxCell>
-        <mxCell id="bank" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=19;fontColor=#17212A;spacing=1;fillColor=light-dark(#cce7ee, #1c4e50);strokeColor=#4BBCBD;strokeWidth=1.3;rounded=1;arcSize=7;" value="256 × 12-bit&lt;br&gt;coefficient bank" vertex="1">
-          <mxGeometry height="54" width="172.2" x="1419.6" y="276" as="geometry" />
+        <mxCell id="butterfly" parent="inside-p8-group" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18.5;fontColor=#17212A;spacing=1;fillColor=#CCE7EE;strokeColor=#4BBCBD;strokeWidth=1.3;rounded=1;arcSize=7;" value="Butterfly&lt;br&gt;datapath" vertex="1">
+          <mxGeometry height="54" width="114.2" x="8.9" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="registers" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18.5;fontColor=#17212A;spacing=1;fillColor=#CCE7EE;strokeColor=#4BBCBD;strokeWidth=1.3;rounded=1;arcSize=7;" value="Temporary&lt;br&gt;registers" vertex="1">
-          <mxGeometry height="54" width="143.7" x="1598.7" y="276" as="geometry" />
+        <mxCell id="bank" parent="inside-p8-group" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=19;fontColor=#17212A;spacing=1;fillColor=light-dark(#cce7ee, #1c4e50);strokeColor=#4BBCBD;strokeWidth=1.3;rounded=1;arcSize=7;" value="256 × 12-bit&lt;br&gt;coefficient bank" vertex="1">
+          <mxGeometry height="54" width="172.2" x="129.9" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="registers" parent="inside-p8-group" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18.5;fontColor=#17212A;spacing=1;fillColor=#CCE7EE;strokeColor=#4BBCBD;strokeWidth=1.3;rounded=1;arcSize=7;" value="Temporary&lt;br&gt;registers" vertex="1">
+          <mxGeometry height="54" width="143.7" x="309" y="30" as="geometry" />
         </mxCell>
         <mxCell id="transfer" parent="1" style="html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#17212A;spacing=1;fillColor=#C8E7FB;strokeColor=#5799D1;strokeWidth=1.3;rounded=1;arcSize=7;" value="&lt;b&gt;Shared half-duplex transfer&lt;/b&gt;" vertex="1">
           <mxGeometry height="48" width="357.2" x="547.7" y="351" as="geometry" />
