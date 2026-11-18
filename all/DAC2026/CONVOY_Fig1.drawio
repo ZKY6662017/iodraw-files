@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="suaC38Sf_El81mKQkW6I">
-    <mxGraphModel dx="2625" dy="1925" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2600" pageHeight="880" math="0" shadow="0">
+    <mxGraphModel dx="3097" dy="1936" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2600" pageHeight="880" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" value="Background &amp; zoom links" />
@@ -1301,11 +1301,10 @@
         <mxCell id="r3-cu-hbm-label" parent="cu" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;fillColor=none;strokeColor=none;strokeWidth=0;html=1;whiteSpace=wrap;fontFamily=Arial;fontSize=23;fontColor=#202B36;align=center;verticalAlign=middle;spacing=0;spacingLeft=5;spacingRight=5;shadow=0;glass=0;gradientColor=none;overflow=visible;" value="&lt;div style=&quot;font-family:Arial;font-size:23px;line-height:27.139999999999997px;font-weight:700;color:#00806C;white-space:nowrap&quot;&gt;HBM I/O&lt;/div&gt;" vertex="1">
           <mxGeometry height="29" width="130" x="1795" y="754" as="geometry" />
         </mxCell>
-        <mxCell id="r3-cu-data-trunk" edge="1" parent="cu" style="edgeStyle=none;html=1;rounded=0;curved=0;strokeColor=#00806C;strokeWidth=1.8;endArrow=block;startArrow=block;endFill=1;startFill=1;endSize=8;startSize=8;jumpStyle=none;entryX=0.5;entryY=0;entryPerimeter=0;" target="r3-cu-hbm-port" value="">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="r3-cu-data-trunk" edge="1" parent="cu" style="edgeStyle=none;html=1;rounded=0;curved=0;strokeColor=#00806C;strokeWidth=1.8;endArrow=block;startArrow=block;endFill=1;startFill=1;endSize=8;startSize=8;jumpStyle=none;entryX=0.514;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" target="r3-cu-hbm-port" value="">
+          <mxGeometry relative="1" x="0.0099" as="geometry">
             <Array as="points">
               <mxPoint x="1862" y="609" />
-              <mxPoint x="1860" y="609" />
             </Array>
             <mxPoint x="1862" y="340" as="sourcePoint" />
             <mxPoint x="1860" y="667" as="targetPoint" />
