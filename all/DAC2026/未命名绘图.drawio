@@ -19,7 +19,7 @@
         <mxCell id="benchmark" parent="1" style="rounded=1;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;fillColor=#EEF6F3;strokeColor=#B8D3C9;strokeWidth=1.4;roundedPerimeter=1;glass=0;" value="" vertex="1">
           <mxGeometry height="292" width="714" x="832" y="304" as="geometry" />
         </mxCell>
-        <mxCell id="benchmarktitle" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=none;fillColor=none;fontSize=27;fontColor=#16675F;align=left;fontStyle=1;" value="C. Independent RTL evaluation" vertex="1">
+        <mxCell id="benchmarktitle" parent="1" style="rounded=0;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;strokeColor=none;fillColor=none;fontSize=27;fontColor=#16675F;align=left;fontStyle=1;" value="C. RTL Evaluation" vertex="1">
           <mxGeometry height="35" width="670" x="854" y="314" as="geometry" />
         </mxCell>
         <mxCell id="integration" parent="1" style="rounded=1;html=1;whiteSpace=wrap;shadow=0;fontFamily=Arial;fontSize=22;fontColor=#233348;align=center;verticalAlign=middle;spacing=0;fillColor=#FFFFFF;strokeColor=#718395;strokeWidth=1.6;fillColor=#FBF6ED;strokeColor=#DCCBB0;strokeWidth=1.4;roundedPerimeter=1;" value="" vertex="1">
